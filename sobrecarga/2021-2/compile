@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -o dist/lab3-2021-2 src/*.cpp

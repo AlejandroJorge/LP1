@@ -1,0 +1,81 @@
+NOMBRE: Hijar Pairazaman Jenny Delicia
+CODIGO: 20196975
+
+NOMBRE: Cabrera Canales Guillermo Edric
+CODIGO: 20209347
+
+NOMBRE: Justino Cruz Williams
+CODIGO: 20174890
+
+NOMBRE: Vega Munoz Gonzalo
+CODIGO: 20182284
+
+NOMBRE: Gavidia Mendoza Ronald Johnny
+CODIGO: 20175376
+
+NOMBRE: Pasquel Quio Surami Janet
+CODIGO: 20164265
+
+NOMBRE: Coronado Figueroa Johan
+CODIGO: 20164917
+
+NOMBRE: Auris Zimic Javier Daniel
+CODIGO: 20187490
+
+NOMBRE: Moya Aranda Johnny
+CODIGO: 20189596
+
+NOMBRE: Alamo Pairazaman Miguel Roberto
+CODIGO: 20179448
+
+NOMBRE: Landeo Sueldo Adolfo
+CODIGO: 20175340
+
+NOMBRE: Cortez Segura Carmela Ines
+CODIGO: 20177013
+
+NOMBRE: Paredes Patino Christian
+CODIGO: 20185528
+
+NOMBRE: Coronel Chumpitaz Heli
+CODIGO: 20151402
+
+NOMBRE: Morales Valverde Ines Martha
+CODIGO: 20165394
+
+NOMBRE: Calixto Tomasiche Monica Doris
+CODIGO: 20176439
+
+NOMBRE: Portugal Benavente Johana Gloria
+CODIGO: 20161798
+
+NOMBRE: Florian Morales Ydali
+CODIGO: 20174723
+
+NOMBRE: Ruiz Gordillo Carola Erika
+CODIGO: 20151338
+
+NOMBRE: Zarate Del_Pozo Humberto Antonio
+CODIGO: 20168937
+
+NOMBRE: Henriquez Espino Beatriz
+CODIGO: 20161555
+
+NOMBRE: Laura Wong Melvin Henrry
+CODIGO: 20204951
+
+NOMBRE: Palomares Vera Henrry Humberto
+CODIGO: 20193940
+
+NOMBRE: Antezano Segura Teresa Delia
+CODIGO: 20203099
+
+NOMBRE: Caro Polo Sandro
+CODIGO: 20171444
+
+NOMBRE: Arca Amezquita Edric Ronald
+CODIGO: 20153434
+
+NOMBRE: Lozada Yino Martha
+CODIGO: 20159943
+

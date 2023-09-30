@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -o dist/program src/*.cpp

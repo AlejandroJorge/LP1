@@ -1,0 +1,282 @@
+17750908
+Hernandez_Barrios_Emilio_
+Estudiante
+Habilitado
+XN48844             20210916            No deuda
+SA04133             20210919            No deuda
+MG75057             20210921            No deuda
+BH96036             20210921            No deuda
+KC34197             20210921            No deuda
+SK15788             20210918            No deuda
+
+26916299
+Diaz_Antezano_Magali_Silvana
+Estudiante
+Habilitado
+IW10872             20210918            No deuda
+FY25192             20210917            No deuda
+SK15788             20210917            No deuda
+ZQ38637             20210920            No deuda
+FY82455             20210914            No deuda
+MG75057             20210917            No deuda
+PL70268             20210923            No deuda
+
+14268463
+Raffo_Chung_Adria_Gloria
+Estudiante
+Habilitado
+PL70268             20210923            No deuda
+OT07742             20210916            No deuda
+FW74175             20210918            No deuda
+SV17719             20210918            No deuda
+
+37500242
+Vasquez_Paz_Alex_Martin
+Estudiante
+Habilitado
+PL70268             20210918            No deuda
+OT07742             20210922            No deuda
+SK15788             20210918            No deuda
+FY82455             20210918            No deuda
+KC34197             20210918            No deuda
+FW74175             20210918            No deuda
+JO84937             20210916            No deuda
+
+61212473
+Castro_Suarez_Rolando_
+Administrativo
+Habilitado
+ZR63735             20210921            No deuda
+ZQ38637             20210919            No deuda
+FW74175             20210921            No deuda
+
+65071478
+Mejia_Diaz_Blanca_Milagros
+Estudiante
+Habilitado
+KC34197             20210918            No deuda
+XW06135             20210920            No deuda
+QV96140             20210919            No deuda
+PL70268             20210923            No deuda
+MG75057             20210918            No deuda
+BB35881             20210919            No deuda
+
+96056368
+Pasquel_Quio_Surami_Janet
+Administrativo
+Habilitado
+PT00038             20210922            No deuda
+FW74175             20210922            No deuda
+ZQ38637             20210923            No deuda
+FY82455             20210921            No deuda
+QA53897             20210922            No deuda
+
+99215341
+Raffo_Arias_Surami_Annie
+Estudiante
+Habilitado
+ZR63735             20210914            No deuda
+ZM20053             20210915            No deuda
+ZK87496             20210922            No deuda
+QV96140             20210915            No deuda
+XQ03477             20210914            No deuda
+KW25071             20210919            No deuda
+FY25192             20210915            No deuda
+PT00038             20210918            No deuda
+
+33958767
+Aquino_Toro_Valentina_Rocio
+Administrativo
+Habilitado
+SV17719             20210923            No deuda
+KW25071             20210923            No deuda
+ZK87496             20210919            No deuda
+FY25192             20210919            No deuda
+JO84937             20210921            No deuda
+OT07742             20210922            No deuda
+SK15788             20210922            No deuda
+
+72832218
+Corrales_Tsukazan_Irma_Lourdes
+Administrativo
+Habilitado
+IW10872             20210922            No deuda
+QE47018             20210921            No deuda
+VA35843             20210920            No deuda
+
+63602514
+Auris_Zimic_Javier_Daniel
+Administrativo
+Habilitado
+IW10872             20210922            No deuda
+QE47018             20210923            No deuda
+
+49516360
+Delgado_Gonzales_Guillermo_Alfonso
+Docente
+Habilitado
+IW10872             20210906            No deuda
+XQ03477             20210913            No deuda
+KC34197             20210910            No deuda
+JO84937             20210907            No deuda
+
+15129661
+Wong_Martel_Madeleine_
+Estudiante
+Habilitado
+FY82455             20210915            No deuda
+FY25192             20210922            No deuda
+SK15788             20210917            No deuda
+OT07742             20210920            No deuda
+
+87804471
+Cerna_Durand_Martin_
+Administrativo
+Habilitado
+QA53897             20210922            No deuda
+PL70268             20210922            No deuda
+OC73472             20210923            No deuda
+
+37751890
+Shirakawa_Miranda_Madeleine_
+Docente
+Habilitado
+FY82455             20210919            No deuda
+FW74175             20210911            No deuda
+
+66152145
+Salas_Aguero_Daniel_
+Estudiante
+Habilitado
+ZQ38637             20210914            No deuda
+FY25192             20210914            No deuda
+BH96036             20210914            No deuda
+QA53897             20210923            No deuda
+KC34197             20210922            No deuda
+XW06135             20210919            No deuda
+
+33115577
+Chumpitaz_Iberos_Ronal
+Estudiante
+Habilitado
+ZR63735             20210923            No deuda
+FW74175             20210918            No deuda
+
+55917355
+Valverde_Flores_Irma_Ydali
+Administrativo
+Habilitado
+ZQ38637             20210923            No deuda
+FW74175             20210921            No deuda
+XN48844             20210923            No deuda
+BH96036             20210922            No deuda
+
+77001234
+Diaz_Correa_Irma_Virginia
+Docente
+Habilitado
+FY25192             20210908            No deuda
+ZK87496             20210908            No deuda
+VA35843             20210915            No deuda
+XW06135             20210916            No deuda
+ZR63735             20210923            No deuda
+QV96140             20210908            No deuda
+IW10872             20210915            No deuda
+PT00038             20210907            No deuda
+
+61039260
+Mejia_De_La_Haza_Francisco_Edgar
+Docente
+Habilitado
+ZM20053             20210914            No deuda
+ZR63735             20210909            No deuda
+QV96140             20210909            No deuda
+ZK87496             20210918            No deuda
+
+54393647
+Norabuena_Preciado_Cinthia_
+Administrativo
+Habilitado
+XQ03477             20210921            No deuda
+FY82455             20210921            No deuda
+XW06135             20210919            No deuda
+PT00038             20210923            No deuda
+ZM20053             20210923            No deuda
+QE47018             20210921            No deuda
+QA53897             20210923            No deuda
+
+45834351
+Velasquez_Huayanay_Edgard_Henry
+Administrativo
+Habilitado
+LM05731             20210922            No deuda
+XQ03477             20210922            No deuda
+SK15788             20210923            No deuda
+QE47018             20210922            No deuda
+IW10872             20210923            No deuda
+SV17719             20210921            No deuda
+
+11750801
+Shirakawa_Ortega_Angel_
+Estudiante
+Habilitado
+BH96036             20210921            No deuda
+ZK87496             20210915            No deuda
+FY82455             20210914            No deuda
+IW10872             20210921            No deuda
+XN48844             20210916            No deuda
+KW25071             20210922            No deuda
+
+83265244
+Pairazaman_Alamo_Moises_Miguel
+Docente
+Habilitado
+PL70268             20210908            No deuda
+KC34197             20210906            No deuda
+ZQ38637             20210918            No deuda
+XW06135             20210906            No deuda
+QE47018             20210923            No deuda
+SA04133             20210909            No deuda
+FY25192             20210920            No deuda
+MG75057             20210912            No deuda
+
+35030611
+Inga_Flores_Cesar_Adolfo
+Estudiante
+Habilitado
+BH96036             20210915            No deuda
+FY25192             20210921            No deuda
+KC34197             20210919            No deuda
+XN48844             20210920            No deuda
+MG75057             20210919            No deuda
+XQ03477             20210920            No deuda
+FW74175             20210914            No deuda
+
+50860318
+Prado_Vergel_Carlos_Julian
+Estudiante
+Habilitado
+SA04133             20210921            No deuda
+FY25192             20210921            No deuda
+PL70268             20210920            No deuda
+ZR63735             20210918            No deuda
+FW74175             20210920            No deuda
+
+81082011
+Arroyo_Gordillo_Maria_Heli
+Docente
+Habilitado
+FY25192             20210912            No deuda
+XN48844             20210914            No deuda
+BH96036             20210916            No deuda
+QV96140             20210919            No deuda
+
+92240876
+Vega_Garcia_Janet_Rebeca
+Estudiante
+Habilitado
+BB35881             20210920            No deuda
+IW10872             20210917            No deuda
+SK15788             20210919            No deuda
+PT00038             20210921            No deuda
+

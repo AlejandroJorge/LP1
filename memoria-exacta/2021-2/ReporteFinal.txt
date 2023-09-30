@@ -1,0 +1,43 @@
+================================================================================
+                              ESTUDIANTES DEUDORES
+--------------------------------------------------------------------------------
+CARNE          CANTIDAD  NOMBRE                                            MONTO     
+11750801       6         Shirakawa_Ortega_Angel                            1765.56   
+66152145       6         Salas_Aguero_Daniel                               1584.70   
+50860318       5         Prado_Vergel_Carlos_Julian                        1471.30   
+37500242       7         Vasquez_Paz_Alex_Martin                           1878.96   
+35030611       7         Inga_Flores_Cesar_Adolfo                          1878.96   
+14268463       4         Raffo_Chung_Adria_Gloria                          1177.04   
+65071478       6         Mejia_Diaz_Blanca_Milagros                        1584.70   
+33115577       2         Chumpitaz_Iberos_Ronal                            588.52    
+17750908       5         Hernandez_Barrios_Emilio                          1290.44   
+26916299       7         Diaz_Antezano_Magali_Silvana                      2059.82   
+99215341       8         Raffo_Arias_Surami_Annie                          2354.08   
+15129661       4         Wong_Martel_Madeleine                             1177.04   
+92240876       4         Vega_Garcia_Janet_Rebeca                          1177.04   
+================================================================================
+                              DOCENTES DEUDORES
+--------------------------------------------------------------------------------
+CARNE          CANTIDAD  NOMBRE                                            MONTO     
+83265244       8         Pairazaman_Alamo_Moises_Miguel                    2173.22   
+81082011       4         Arroyo_Gordillo_Maria_Heli                        1177.04   
+77001234       8         Diaz_Correa_Irma_Virginia                         2354.08   
+61039260       4         Mejia_De_La_Haza_Francisco_Edgar                  1177.04   
+37751890       2         Shirakawa_Miranda_Madeleine                       588.52    
+49516360       4         Delgado_Gonzales_Guillermo_Alfonso                996.18    
+================================================================================
+                              ADMINISTRATIVOS DEUDORES
+--------------------------------------------------------------------------------
+CARNE          CANTIDAD  NOMBRE                                            MONTO     
+45834351       6         Velasquez_Huayanay_Edgard_Henry                   1765.56   
+72832218       3         Corrales_Tsukazan_Irma_Lourdes                    882.78    
+55917355       4         Valverde_Flores_Irma_Ydali                        1177.04   
+33958767       7         Aquino_Toro_Valentina_Rocio                       2059.82   
+87804471       3         Cerna_Durand_Martin                               882.78    
+54393647       7         Norabuena_Preciado_Cinthia                        2059.82   
+63602514       2         Auris_Zimic_Javier_Daniel                         588.52    
+96056368       5         Pasquel_Quio_Surami_Janet                         1471.30   
+61212473       3         Castro_Suarez_Rolando                             882.78    
+================================================================================
+                              STOCK DE LIBROS DE LA BIBLIOTECA
+--------------------------------------------------------------------------------

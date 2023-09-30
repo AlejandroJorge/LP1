@@ -1,0 +1,257 @@
+=================================================================================================== 
+PEDIDOS ATENDIDOS POR CLIENTE:
+=================================================================================================== 
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+71984468          IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    874503GALLETAS LORS SNACKS MARINELA 75GR         1
+    997564MANGO ECUATORIANO                          1
+    330512YOGHURT LALA LIGHT 240GR                   6
+    283781FRIJOLES REFRITOS ISADORA 430GR            7
+    126218TANJERINA                                  6
+    651034MANGO EN REBANADAS LA MORENA 800GR         8
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+29847168          ALDAVE ZEVALLOS ROSARIO
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    308982YOGHURT P BEBER FRUGGIS FRESA 150GR       11
+    961802ACHIOTE LA EXTRA 1KG                       1
+    580927TORTILLAS DE HARINA DEL HOGAR 22P. 840GR   4
+    620036SABRITAS ORIGINAL SAL 490GR                8
+    422763GALLETAS SUAVICREMAS FRESA 158GR           4
+    979865GALLETAS MARIAS CUETARA 160GR              9
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+79475585          RETTO ARCA ANNIE MAGDA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    118050PAPAYA                                     8
+    118050PAPAYA                                     5
+    390920AGUA NIAGARA 500ML                         4
+    565169PASTILLA PEPTO BISMOL                      5
+    793026YOGHURT NATURAL LIGHT LALA 1KG             7
+    748899NARANJA SIN SEMILLA                        9
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+91897732          GAMARRA ALCOCER VIRGINIA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    204890LECHE YAQUI DESLACTOSADA 1LT               6
+    151641YOGHURT P BEBER LACTIGURT COCO 250G        6
+    947176SALSA DE CHILE HABANERO ROJO 260GR         2
+    485302YOGHURT LALA FRESA 240GR                   9
+    961802ACHIOTE LA EXTRA 1KG                      12
+    365906AGUACATE REGIONAL KG.1.000 GR              9
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+33397650          RONDON EGUSQUIZA CARMELA VALENTINA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    285807YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G   4
+    947176SALSA DE CHILE HABANERO ROJO 260GR         6
+    415932SOPA MARUCHAN CAMARON 71GR                 7
+    412041TORTILLAS DE MAIZ 1KG                      9
+    941699MAIZ POZOLERO EXTRA 1KGR                   3
+    365906AGUACATE REGIONAL KG.1.000 GR             11
+    374253TE DE MANZANILLA NEBO 24 1GR               9
+    459032GELATINA DANY LIMON 125GR                  5
+    179485MOLE SURTIDO CON ESPECIAS 250GR           11
+    374253TE DE MANZANILLA NEBO 24 1GR               4
+    651034MANGO EN REBANADAS LA MORENA 800GR         3
+    178943YOGHURT P BEBER DURAZNO LIGHT YOP 250GR    9
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+83236386          RIVERO CORRALES JUAN FERNANDO
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    406688CHURROMAIS CON LIMON 38GR                  9
+    923804SAL BAJA PACIFIC BOLSA 1KGR               11
+    311343YOGHURT FRESA NESTLE 1KG                   4
+    675770JARABE DE MAMEY 1.25KG                     2
+    872819GELATINA DE LECHE VAINILLA DANETTE 100GR   1
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+32821689          ZAVALETA EPIQUEN CARMEN ZKENIA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    151641YOGHURT P BEBER LACTIGURT COCO 250G        4
+    872819GELATINA DE LECHE VAINILLA DANETTE 100GR   6
+    422763GALLETAS SUAVICREMAS FRESA 158GR           4
+    992564LECHUGA ROMANA                             2
+    882099NESQUIK CHOCOLATE 200GR                    1
+    793026YOGHURT NATURAL LIGHT LALA 1KG            10
+    406688CHURROMAIS CON LIMON 38GR                  9
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+45783712          POZO CHUNG RAFAEL DEL
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    690039CORAZONES DE OREJONA PZA                   8
+    412041TORTILLAS DE MAIZ 1KG                      3
+    979865GALLETAS MARIAS CUETARA 160GR             10
+    170844EMPANIZADOR CONTADINA TRADICIONAL 283GR    9
+    696000MEDIA CREMA NESTLE 1LT                     8
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+11118888          PEREZ ALBELA COSSIO JOSE LUIS ALBERTO 
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+48184351          LOPEZ JAUREGUI ROLANDO
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    748008SANDWICH COMBINADA 3 FLORES 150GR          3
+    856894HARINA MAZATL 5KG                          5
+    485302YOGHURT LALA FRESA 240GR                   1
+    856894HARINA MAZATL 5KG                         12
+    511824FLAN LALA SABOR VAINILLA 100GR             4
+    536472SABRITAS CASERAS JALAPENO 42GR            12
+    317404LICUADO LALA CIRUELA PASA Y NUEZ 240GR     5
+    204890LECHE YAQUI DESLACTOSADA 1LT               1
+    565169PASTILLA PEPTO BISMOL                      6
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+33713901          VILLEGAS CASTRO SOFIA VIRGINIA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    511824FLAN LALA SABOR VAINILLA 100GR             7
+    415932SOPA MARUCHAN CAMARON 71GR                11
+    696000MEDIA CREMA NESTLE 1LT                     8
+    536472SABRITAS CASERAS JALAPENO 42GR             6
+    126218TANJERINA                                 11
+    406688CHURROMAIS CON LIMON 38GR                  1
+    785062CORAZON DE ALCACHOFA SAN MIGUEL            4
+    901816JUGO VALLE FRUT CITRUS 12 250ML            5
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+76388967          GONZALES QUIO ISABEL
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    374253TE DE MANZANILLA NEBO 24 1GR               5
+    947176SALSA DE CHILE HABANERO ROJO 260GR         6
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+81114108          ZAMBRANO SHIRAKAWA WILMER
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    900698VAINILLA MOLINA 500ML                      5
+    662083TAKIS SALSA BRAVA 62GR                     2
+    565169PASTILLA PEPTO BISMOL                      5
+    308982YOGHURT P BEBER FRUGGIS FRESA 150GR        7
+    182942ZAPOTE                                     3
+    992564LECHUGA ROMANA                             3
+    793026YOGHURT NATURAL LIGHT LALA 1KG             7
+    455703PALOMITAS POFETS FLAMIN HOT 28GR          12
+    941699MAIZ POZOLERO EXTRA 1KGR                   6
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+57263719          PRADO TORREALBA CARMEN JANET
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    620036SABRITAS ORIGINAL SAL 490GR                4
+    941699MAIZ POZOLERO EXTRA 1KGR                   9
+    856894HARINA MAZATL 5KG                          1
+    565169PASTILLA PEPTO BISMOL                     11
+    778066CHILES CHIPOTLES LA COSTENA 380GR          9
+    793026YOGHURT NATURAL LIGHT LALA 1KG             5
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+79140840          TORREALBA ARCA VICTORIA GLENDA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    459032GELATINA DANY LIMON 125GR                  8
+    308982YOGHURT P BEBER FRUGGIS FRESA 150GR       10
+    317404LICUADO LALA CIRUELA PASA Y NUEZ 240GR     3
+    748008SANDWICH COMBINADA 3 FLORES 150GR          8
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+71378466          MIYAKE CARO HENRRY EDGAR
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    308982YOGHURT P BEBER FRUGGIS FRESA 150GR        3
+    923804SAL BAJA PACIFIC BOLSA 1KGR                7
+    459032GELATINA DANY LIMON 125GR                 10
+    412041TORTILLAS DE MAIZ 1KG                      2
+    485302YOGHURT LALA FRESA 240GR                   5
+    485302YOGHURT LALA FRESA 240GR                   8
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+17913944          PALOMARES SANTISTEBAN HENRRY
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    422763GALLETAS SUAVICREMAS FRESA 158GR           2
+    675770JARABE DE MAMEY 1.25KG                     5
+    696000MEDIA CREMA NESTLE 1LT                     1
+    415932SOPA MARUCHAN CAMARON 71GR                 1
+    856894HARINA MAZATL 5KG                          7
+    434681ELOTE DORADO DEL MONTE 225GR               9
+    422763GALLETAS SUAVICREMAS FRESA 158GR           3
+    317404LICUADO LALA CIRUELA PASA Y NUEZ 240GR     2
+    390920AGUA NIAGARA 500ML                         8
+    415932SOPA MARUCHAN CAMARON 71GR                 1
+    582920PINGUINOS MARINELA 40GR                    6
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+62566305          ROMERO ALFARO MONICA JOHANA
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    311343YOGHURT FRESA NESTLE 1KG                  11
+    714788PAPA EN CUBOS DEL FUERTE 12 380GR.         7
+    882099NESQUIK CHOCOLATE 200GR                    2
+    882099NESQUIK CHOCOLATE 200GR                   12
+Dni              Nombre
+--------------------------------------------------------------------------------------------------- 
+46462527          LOYOLA MORI NICOLAS FERNANDO
+Pedidos atendidos:
+ ---------------------------------------------------------------------------------------------------
+Fecha              Codigo           Descripcion del Producto            Cantidad
+--------------------------------------------------------------------------------------------------- 
+    178943YOGHURT P BEBER DURAZNO LIGHT YOP 250GR    1
+    748899NARANJA SIN SEMILLA                       11
+    900698VAINILLA MOLINA 500ML                      5
+    182942ZAPOTE                                     2
+    397718LECHE LALA SEMI DESLACTOSADA 1LT           0
+    178943YOGHURT P BEBER DURAZNO LIGHT YOP 250GR    2
+    317404LICUADO LALA CIRUELA PASA Y NUEZ 240GR    11
+    308982YOGHURT P BEBER FRUGGIS FRESA 150GR        6
+    901816JUGO VALLE FRUT CITRUS 12 250ML            2

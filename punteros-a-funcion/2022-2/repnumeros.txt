@@ -1,0 +1,9 @@
+Cantidad de datos: 8
+Numero: 3
+Numero: 8
+Numero: 8
+Numero: 15
+Numero: 48
+Numero: 78
+Numero: 87
+Numero: 156

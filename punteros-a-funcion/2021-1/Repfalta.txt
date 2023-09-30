@@ -1,0 +1,538 @@
+===============================================================================================
+Ano: 2019 Mes: 1
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190102       15559308       BRAVO CORTES JANET FLOR                           335            
+20190102       16477908       BACA CAMACHO MILAGROS NATALIA                     115            
+20190102       47844324       VILCA LEE NESTOR HUGO                             329            
+20190103       15115705       HERNANDEZ CORRALES GUILLERMO                      170            
+20190104       90467829       IPARRAGUIRRE PEREZ NICOLAS                        170            
+20190104       70414420       AVILA REYES TATIANA                               338            
+20190105       68310808       CANO POLO MILAGROS ISABEL                         306            
+20190105       81485316       JUSTINO MARTINEZ ENRIQUE                          327            
+20190106       31107104       MOSCOSO ARIAS FIORELLA                            154            
+20190106       60335381       DIAZ TANG ENRIQUE                                 337            
+20190107       79766395       FUENTES ESCALANTE PATRICIA ELIZABETH              305            
+20190108       77763722       FARFAN SALAZAR MARGOT                             115            
+20190109       79672079       CONTRERAS CHANG JOHANA CINTHIA                    305            
+20190109       15029228       VALVERDE MAEIREIZO MELVIN JAIR                    304            
+20190109       35671623       EPIQUEN YEP GUIDA VICTORIA                        157            
+20190110       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             323            
+20190110       88167677       PRADO VERA JUAN                                   148            
+20190112       19963454       SALAMANCA CABRERA NESTOR EVERT                    111            
+20190112       81485316       JUSTINO MARTINEZ ENRIQUE                          320            
+20190112       45043076       VEGA VILCARA CARMELA TERESA                       334            
+20190114       77367073       JAUREGUI DEL CASTILLO VICTOR RICARDO              336            
+20190116       34976629       LOZADA ARGUEDAS FELICITA VALENTINA                334            
+20190116       47528229       SAAVEDRA GONZALES WILMER                          149            
+20190116       35683701       DIAZ MOYA ELIA ANNIE                              314            
+20190116       27864822       FIGUEROA MEDINA MADELEINE                         318            
+20190117       77367073       JAUREGUI DEL CASTILLO VICTOR RICARDO              132            
+20190118       84186239       RIVERO CORONADO HECTOR ALONSO                     330            
+20190118       48878256       RAFFO CORONADO ROLANDO                            310            
+20190119       30046639       SALAMANCA VEGA VIRGINIA MARTHA                    136            
+20190120       25518120       RONDON CABRERA ALEXANDER ADOLFO                   103            
+20190120       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       306            
+20190121       85501710       VIZCARDO SINCHE MARIBEL                           206            
+20190121       53853385       SOLIS NARVAEZ MARIA MADELEINE                     323            
+20190122       52002275       CASANOVA ZEGARRA MARITZA                          117            
+20190122       81799482       CERNA CERNA CINTHIA                               309            
+20190123       64532449       INFANTES MERCADO LUIS WALDEMAR                    162            
+20190125       64532449       INFANTES MERCADO LUIS WALDEMAR                    108            
+20190125       36079131       ZAVALETA VILCA ERICKA ELEONOR                     308            
+20190125       27185429       SOLIS CHUNG ROLANDO                               327            
+20190126       70414420       AVILA REYES TATIANA                               336            
+20190129       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     153            
+20190129       29989682       CAMACHO PAIRAZAMAN YDALI LUCERO                   311            
+20190129       47844324       VILCA LEE NESTOR HUGO                             335            
+20190130       21621497       AYALA CASTILLO ERICKA OFELIA                      321            
+20190130       54447051       AVILA DEL CASTILLO ANNIE                          304            
+20190130       35683701       DIAZ MOYA ELIA ANNIE                              155            
+20190131       21621497       AYALA CASTILLO ERICKA OFELIA                      163            
+===============================================================================================
+Ano: 2019 Mes: 2
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190202       51929951       CHAVEZ BERROCAL JOHAN                             325            
+20190203       27864822       FIGUEROA MEDINA MADELEINE                         140            
+20190204       71578206       ARROYO TOMASICHE NATALIA                          123            
+20190206       34248357       LEYVA LANDEO NANCY SONIA                          308            
+20190206       49428502       RIVERO CORTEZ WILVER ALFONSO                      152            
+20190206       90467829       IPARRAGUIRRE PEREZ NICOLAS                        107            
+20190207       34248357       LEYVA LANDEO NANCY SONIA                          157            
+20190208       15559308       BRAVO CORTES JANET FLOR                           150            
+20190208       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    133            
+20190208       69494747       MENDOZA ROMERO VIRGINIA YDALI                     117            
+20190210       97849227       PRADO ESPINOZA MILAGROS                           101            
+20190211       19963454       SALAMANCA CABRERA NESTOR EVERT                    151            
+20190211       34248357       LEYVA LANDEO NANCY SONIA                          103            
+20190212       96693273       VALDERRAMA BERROCAL EVERT                         131            
+20190214       47528229       SAAVEDRA GONZALES WILMER                          311            
+20190214       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       130            
+20190215       50200823       LEYVA SAM DIANA DELIA                             165            
+20190215       87495937       MORALES PASQUEL KARIN MARIBEL                     304            
+20190216       35912665       MARTINEZ CRUZ EVERT RONY                          124            
+20190217       29833157       HIJAR LAM MARTIN                                  201            
+20190218       49927087       INGA PALOMARES ERIKA                              328            
+20190218       80457845       NORABUENA MOYA HECTOR                             202            
+20190220       21621497       AYALA CASTILLO ERICKA OFELIA                      332            
+20190220       66849703       MERCADO CORONEL ELIA                              307            
+20190221       88854166       PINTO ROJAS JUVENAL FRANCISCO                     319            
+20190221       73357516       TRIGUEROS JUGO LUZ                                152            
+20190223       58992942       NARVAEZ CASTILLO JESUS RAFAEL                     159            
+20190223       15559308       BRAVO CORTES JANET FLOR                           156            
+20190224       54447051       AVILA DEL CASTILLO ANNIE                          331            
+20190225       87282766       SUAREZ CHANG GLORIA                               135            
+20190225       43454884       ESPINOZA CHANG SHIRLEY                            203            
+20190226       21621497       AYALA CASTILLO ERICKA OFELIA                      205            
+20190226       34248357       LEYVA LANDEO NANCY SONIA                          104            
+20190228       54447051       AVILA DEL CASTILLO ANNIE                          312            
+20190228       29989682       CAMACHO PAIRAZAMAN YDALI LUCERO                   115            
+===============================================================================================
+Ano: 2019 Mes: 3
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190301       79766395       FUENTES ESCALANTE PATRICIA ELIZABETH              313            
+20190302       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    113            
+20190304       30441350       RETAMOSO SALAMANCA DELIA MARITZA                  324            
+20190306       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             207            
+20190306       87495937       MORALES PASQUEL KARIN MARIBEL                     141            
+20190306       88167677       PRADO VERA JUAN                                   323            
+20190307       88167677       PRADO VERA JUAN                                   161            
+20190307       68310808       CANO POLO MILAGROS ISABEL                         164            
+20190308       31107104       MOSCOSO ARIAS FIORELLA                            138            
+20190308       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   325            
+20190309       81799482       CERNA CERNA CINTHIA                               104            
+20190310       12270502       CUEVA FUENTES CINTHIA DELIA                       135            
+20190311       70414420       AVILA REYES TATIANA                               106            
+20190311       81528434       EPIQUEN AVILA ENRIQUE                             311            
+20190311       50200823       LEYVA SAM DIANA DELIA                             147            
+20190312       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   147            
+20190313       64532449       INFANTES MERCADO LUIS WALDEMAR                    130            
+20190313       60784914       RUIZ ZEVALLOS WALTER RONY                         208            
+20190314       38862473       WONG MAEIREIZO BEATRIZ                            318            
+20190314       42956681       POMAJAMBO EGUSQUIZA PAUL                          127            
+20190315       53374153       SERRANO IBEROS FRANCISCO                          156            
+20190316       24859596       FLORIAN CUBA CHRISTIAN                            302            
+20190317       73972114       AVILA MARTEL JAIME MANUEL                         320            
+20190317       43454884       ESPINOZA CHANG SHIRLEY                            320            
+20190318       64178096       VIZCARRA CARBAJAL IVAN FAUSTO                     336            
+20190318       54141214       DURAND MIRANDA MIGUEL JUAN                        152            
+20190318       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       327            
+20190318       27864822       FIGUEROA MEDINA MADELEINE                         208            
+20190318       63736112       ZAMORA ZAVALETA RONAL MANUEL                      135            
+20190319       77763722       FARFAN SALAZAR MARGOT                             304            
+20190319       15029228       VALVERDE MAEIREIZO MELVIN JAIR                    152            
+20190320       52003695       CARBAJAL SALAS MAGDA ZKENIA                       118            
+20190320       79641328       TOKESHI GUEVARA JAIME                             301            
+20190321       13219606       RODRIGUEZ MORENO BLANCA OFELIA                    150            
+20190321       25518120       RONDON CABRERA ALEXANDER ADOLFO                   121            
+20190322       42956681       POMAJAMBO EGUSQUIZA PAUL                          320            
+20190323       35912665       MARTINEZ CRUZ EVERT RONY                          126            
+20190323       85501710       VIZCARDO SINCHE MARIBEL                           333            
+20190325       15559308       BRAVO CORTES JANET FLOR                           147            
+20190325       48878256       RAFFO CORONADO ROLANDO                            318            
+20190327       34976629       LOZADA ARGUEDAS FELICITA VALENTINA                132            
+20190327       47528229       SAAVEDRA GONZALES WILMER                          127            
+20190330       27864822       FIGUEROA MEDINA MADELEINE                         326            
+20190330       79672079       CONTRERAS CHANG JOHANA CINTHIA                    334            
+===============================================================================================
+Ano: 2019 Mes: 4
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190401       25518120       RONDON CABRERA ALEXANDER ADOLFO                   122            
+20190403       80457845       NORABUENA MOYA HECTOR                             113            
+20190404       89941095       ARCA LARRIEGA LUCERO YLIANA                       147            
+20190405       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    122            
+20190405       15559308       BRAVO CORTES JANET FLOR                           312            
+20190406       84186239       RIVERO CORONADO HECTOR ALONSO                     153            
+20190407       15115705       HERNANDEZ CORRALES GUILLERMO                      157            
+20190407       29833157       HIJAR LAM MARTIN                                  146            
+20190408       35297848       ASTETE CHANG GUIDA                                117            
+20190408       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     134            
+20190411       84186239       RIVERO CORONADO HECTOR ALONSO                     117            
+20190411       45043076       VEGA VILCARA CARMELA TERESA                       320            
+20190413       80310768       MINAYA BERROCAL HELI                              323            
+20190415       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       341            
+20190416       63736112       ZAMORA ZAVALETA RONAL MANUEL                      160            
+20190418       67185679       FLORENCIO CORONADO ALONSO                         134            
+20190419       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       106            
+20190419       35671623       EPIQUEN YEP GUIDA VICTORIA                        151            
+20190420       29833157       HIJAR LAM MARTIN                                  130            
+20190420       54141214       DURAND MIRANDA MIGUEL JUAN                        140            
+20190422       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    143            
+20190422       53853385       SOLIS NARVAEZ MARIA MADELEINE                     302            
+20190422       36079131       ZAVALETA VILCA ERICKA ELEONOR                     204            
+20190425       35912665       MARTINEZ CRUZ EVERT RONY                          160            
+20190426       96693273       VALDERRAMA BERROCAL EVERT                         148            
+20190429       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     325            
+20190430       96693273       VALDERRAMA BERROCAL EVERT                         170            
+20190430       36079131       ZAVALETA VILCA ERICKA ELEONOR                     137            
+===============================================================================================
+Ano: 2019 Mes: 5
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190501       81799482       CERNA CERNA CINTHIA                               161            
+20190501       60784914       RUIZ ZEVALLOS WALTER RONY                         170            
+20190502       75945248       MEJIA RODRIGUEZ INES VALENTINA                    331            
+20190502       77763722       FARFAN SALAZAR MARGOT                             101            
+20190503       51395324       TRIGUEROS PORTUGAL ARTURO FAUSTO                  121            
+20190503       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       301            
+20190503       48878256       RAFFO CORONADO ROLANDO                            335            
+20190503       27864822       FIGUEROA MEDINA MADELEINE                         119            
+20190504       71578206       ARROYO TOMASICHE NATALIA                          127            
+20190505       88167677       PRADO VERA JUAN                                   335            
+20190505       80457845       NORABUENA MOYA HECTOR                             108            
+20190506       52002275       CASANOVA ZEGARRA MARITZA                          321            
+20190509       19568447       VEGA SORIA HENRRY                                 102            
+20190510       96693273       VALDERRAMA BERROCAL EVERT                         306            
+20190510       87495937       MORALES PASQUEL KARIN MARIBEL                     121            
+20190513       75945248       MEJIA RODRIGUEZ INES VALENTINA                    152            
+20190513       90467829       IPARRAGUIRRE PEREZ NICOLAS                        308            
+20190513       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     154            
+20190514       38862473       WONG MAEIREIZO BEATRIZ                            306            
+20190514       16925690       CABRERA TORO FANNY                                321            
+20190514       34248357       LEYVA LANDEO NANCY SONIA                          304            
+20190515       80310768       MINAYA BERROCAL HELI                              208            
+20190515       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             306            
+20190515       38862473       WONG MAEIREIZO BEATRIZ                            328            
+20190516       87495937       MORALES PASQUEL KARIN MARIBEL                     109            
+20190518       66849703       MERCADO CORONEL ELIA                              201            
+20190518       48878256       RAFFO CORONADO ROLANDO                            106            
+20190519       79641328       TOKESHI GUEVARA JAIME                             151            
+20190519       66849703       MERCADO CORONEL ELIA                              118            
+20190520       35683701       DIAZ MOYA ELIA ANNIE                              137            
+20190521       73357516       TRIGUEROS JUGO LUZ                                147            
+20190521       16136330       YEP PRECIADO RICHARD                              341            
+20190521       53853385       SOLIS NARVAEZ MARIA MADELEINE                     109            
+20190522       49927087       INGA PALOMARES ERIKA                              152            
+20190522       29833157       HIJAR LAM MARTIN                                  114            
+20190523       53853385       SOLIS NARVAEZ MARIA MADELEINE                     104            
+20190524       34248357       LEYVA LANDEO NANCY SONIA                          128            
+20190526       80457845       NORABUENA MOYA HECTOR                             122            
+20190526       75348522       LOZADA FORZANI DELIA                              126            
+20190527       73357516       TRIGUEROS JUGO LUZ                                151            
+20190528       99950484       CORTES CORTEZ RAUL ALEX                           166            
+20190528       96693273       VALDERRAMA BERROCAL EVERT                         137            
+20190530       96693273       VALDERRAMA BERROCAL EVERT                         322            
+20190530       15029228       VALVERDE MAEIREIZO MELVIN JAIR                    206            
+20190531       88167677       PRADO VERA JUAN                                   154            
+20190531       74325123       TANG MOSCOSO JOHANA                               128            
+20190531       50201756       ZEGARRA PENA CARMELA                              204            
+===============================================================================================
+Ano: 2019 Mes: 6
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190601       49927087       INGA PALOMARES ERIKA                              145            
+20190601       16477908       BACA CAMACHO MILAGROS NATALIA                     132            
+20190602       88167677       PRADO VERA JUAN                                   118            
+20190603       80457845       NORABUENA MOYA HECTOR                             137            
+20190603       16925690       CABRERA TORO FANNY                                144            
+20190605       21621497       AYALA CASTILLO ERICKA OFELIA                      146            
+20190605       64532449       INFANTES MERCADO LUIS WALDEMAR                    146            
+20190606       39544560       LUNA VARGAS WALDEMAR                              126            
+20190607       19963454       SALAMANCA CABRERA NESTOR EVERT                    129            
+20190608       24859596       FLORIAN CUBA CHRISTIAN                            328            
+20190608       12858682       ZARATE PEREZ ALEXANDER                            121            
+20190608       30046639       SALAMANCA VEGA VIRGINIA MARTHA                    116            
+20190610       73972114       AVILA MARTEL JAIME MANUEL                         304            
+20190610       27864822       FIGUEROA MEDINA MADELEINE                         137            
+20190610       82870470       SEDANO RETAMOSO ELIA YOLANDA                      108            
+20190611       81799482       CERNA CERNA CINTHIA                               151            
+20190612       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             332            
+20190612       36079131       ZAVALETA VILCA ERICKA ELEONOR                     137            
+20190612       79672079       CONTRERAS CHANG JOHANA CINTHIA                    306            
+20190612       88167677       PRADO VERA JUAN                                   116            
+20190613       88167677       PRADO VERA JUAN                                   315            
+20190614       68310808       CANO POLO MILAGROS ISABEL                         132            
+20190615       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             164            
+20190616       54447051       AVILA DEL CASTILLO ANNIE                          130            
+20190617       87282766       SUAREZ CHANG GLORIA                               165            
+20190617       86718074       ESCALANTE ROJAS INES ADRIA                        203            
+20190619       31107104       MOSCOSO ARIAS FIORELLA                            301            
+20190619       85501710       VIZCARDO SINCHE MARIBEL                           113            
+20190619       89314225       RIOS DURAND CARLOS EDILBERTO                      318            
+20190620       53374153       SERRANO IBEROS FRANCISCO                          159            
+20190621       34248357       LEYVA LANDEO NANCY SONIA                          161            
+20190621       24859596       FLORIAN CUBA CHRISTIAN                            306            
+20190621       71578206       ARROYO TOMASICHE NATALIA                          125            
+20190623       49428502       RIVERO CORTEZ WILVER ALFONSO                      338            
+20190624       48450395       RAMIREZ ASTETE KARINA ESTEFANIA                   321            
+20190625       36079131       ZAVALETA VILCA ERICKA ELEONOR                     301            
+20190625       73357516       TRIGUEROS JUGO LUZ                                311            
+20190625       68310808       CANO POLO MILAGROS ISABEL                         155            
+20190625       27268323       LOZADA IBEROS HELI BLANCA                         106            
+20190626       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   163            
+20190626       79766395       FUENTES ESCALANTE PATRICIA ELIZABETH              159            
+20190627       12858682       ZARATE PEREZ ALEXANDER                            337            
+20190628       87282766       SUAREZ CHANG GLORIA                               133            
+20190628       71832810       SUELDO SEDANO ADRIA                               128            
+20190629       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       311            
+20190629       79641328       TOKESHI GUEVARA JAIME                             156            
+20190629       47528229       SAAVEDRA GONZALES WILMER                          207            
+20190630       54447051       AVILA DEL CASTILLO ANNIE                          205            
+20190630       13219606       RODRIGUEZ MORENO BLANCA OFELIA                    107            
+===============================================================================================
+Ano: 2019 Mes: 7
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190701       80457845       NORABUENA MOYA HECTOR                             126            
+20190702       88854166       PINTO ROJAS JUVENAL FRANCISCO                     121            
+20190702       48878256       RAFFO CORONADO ROLANDO                            125            
+20190702       79641328       TOKESHI GUEVARA JAIME                             163            
+20190702       85501710       VIZCARDO SINCHE MARIBEL                           125            
+20190704       13219606       RODRIGUEZ MORENO BLANCA OFELIA                    164            
+20190705       43454884       ESPINOZA CHANG SHIRLEY                            327            
+20190706       16925690       CABRERA TORO FANNY                                117            
+20190708       50200823       LEYVA SAM DIANA DELIA                             152            
+20190709       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   115            
+20190710       42956681       POMAJAMBO EGUSQUIZA PAUL                          145            
+20190711       16925690       CABRERA TORO FANNY                                330            
+20190712       70414420       AVILA REYES TATIANA                               164            
+20190712       34248357       LEYVA LANDEO NANCY SONIA                          311            
+20190712       47528229       SAAVEDRA GONZALES WILMER                          153            
+20190713       38862473       WONG MAEIREIZO BEATRIZ                            328            
+20190714       71832810       SUELDO SEDANO ADRIA                               202            
+20190714       81485316       JUSTINO MARTINEZ ENRIQUE                          339            
+20190715       30441350       RETAMOSO SALAMANCA DELIA MARITZA                  134            
+20190716       48450395       RAMIREZ ASTETE KARINA ESTEFANIA                   132            
+20190717       79641328       TOKESHI GUEVARA JAIME                             324            
+20190718       27864822       FIGUEROA MEDINA MADELEINE                         321            
+20190721       29989682       CAMACHO PAIRAZAMAN YDALI LUCERO                   206            
+20190722       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             341            
+20190723       52002275       CASANOVA ZEGARRA MARITZA                          333            
+20190724       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   148            
+20190724       12270502       CUEVA FUENTES CINTHIA DELIA                       148            
+20190726       85501710       VIZCARDO SINCHE MARIBEL                           122            
+20190726       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       320            
+20190727       12443643       LEE SERRANO ROSARIO                               170            
+20190727       89941095       ARCA LARRIEGA LUCERO YLIANA                       312            
+20190729       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     136            
+20190729       50201756       ZEGARRA PENA CARMELA                              161            
+===============================================================================================
+Ano: 2019 Mes: 8
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190801       42956681       POMAJAMBO EGUSQUIZA PAUL                          122            
+20190803       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     146            
+20190805       54447051       AVILA DEL CASTILLO ANNIE                          331            
+20190806       99950484       CORTES CORTEZ RAUL ALEX                           141            
+20190806       48878256       RAFFO CORONADO ROLANDO                            305            
+20190808       34976629       LOZADA ARGUEDAS FELICITA VALENTINA                117            
+20190808       77763722       FARFAN SALAZAR MARGOT                             341            
+20190809       87495937       MORALES PASQUEL KARIN MARIBEL                     119            
+20190809       73357516       TRIGUEROS JUGO LUZ                                310            
+20190809       16925690       CABRERA TORO FANNY                                161            
+20190810       67185679       FLORENCIO CORONADO ALONSO                         122            
+20190810       42956681       POMAJAMBO EGUSQUIZA PAUL                          308            
+20190810       79766395       FUENTES ESCALANTE PATRICIA ELIZABETH              163            
+20190811       49927087       INGA PALOMARES ERIKA                              144            
+20190812       84186239       RIVERO CORONADO HECTOR ALONSO                     322            
+20190814       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     103            
+20190814       47528229       SAAVEDRA GONZALES WILMER                          307            
+20190814       60784914       RUIZ ZEVALLOS WALTER RONY                         139            
+20190816       74325123       TANG MOSCOSO JOHANA                               305            
+20190818       36079131       ZAVALETA VILCA ERICKA ELEONOR                     330            
+20190818       87495937       MORALES PASQUEL KARIN MARIBEL                     115            
+20190820       79766395       FUENTES ESCALANTE PATRICIA ELIZABETH              336            
+20190820       48878256       RAFFO CORONADO ROLANDO                            322            
+20190821       53374153       SERRANO IBEROS FRANCISCO                          134            
+20190824       88854166       PINTO ROJAS JUVENAL FRANCISCO                     319            
+20190824       38862473       WONG MAEIREIZO BEATRIZ                            324            
+20190825       79672079       CONTRERAS CHANG JOHANA CINTHIA                    126            
+20190826       38862473       WONG MAEIREIZO BEATRIZ                            309            
+20190827       16925690       CABRERA TORO FANNY                                144            
+20190830       81485316       JUSTINO MARTINEZ ENRIQUE                          147            
+20190831       81485316       JUSTINO MARTINEZ ENRIQUE                          159            
+20190831       89941095       ARCA LARRIEGA LUCERO YLIANA                       150            
+20190831       48878256       RAFFO CORONADO ROLANDO                            329            
+===============================================================================================
+Ano: 2019 Mes: 9
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190901       53853385       SOLIS NARVAEZ MARIA MADELEINE                     170            
+20190901       77763722       FARFAN SALAZAR MARGOT                             329            
+20190901       30441350       RETAMOSO SALAMANCA DELIA MARITZA                  129            
+20190902       15559308       BRAVO CORTES JANET FLOR                           130            
+20190902       71832810       SUELDO SEDANO ADRIA                               166            
+20190902       73357516       TRIGUEROS JUGO LUZ                                339            
+20190903       53374153       SERRANO IBEROS FRANCISCO                          142            
+20190903       47528229       SAAVEDRA GONZALES WILMER                          163            
+20190903       96693273       VALDERRAMA BERROCAL EVERT                         110            
+20190903       50200823       LEYVA SAM DIANA DELIA                             129            
+20190904       44346371       ALFARO ALFARO ERICK BRUNO                         335            
+20190904       13219606       RODRIGUEZ MORENO BLANCA OFELIA                    136            
+20190905       88167677       PRADO VERA JUAN                                   104            
+20190905       50200823       LEYVA SAM DIANA DELIA                             336            
+20190905       53374153       SERRANO IBEROS FRANCISCO                          101            
+20190906       88167677       PRADO VERA JUAN                                   127            
+20190906       30046639       SALAMANCA VEGA VIRGINIA MARTHA                    327            
+20190907       79672079       CONTRERAS CHANG JOHANA CINTHIA                    127            
+20190908       64532449       INFANTES MERCADO LUIS WALDEMAR                    161            
+20190910       35912665       MARTINEZ CRUZ EVERT RONY                          301            
+20190912       74325123       TANG MOSCOSO JOHANA                               143            
+20190913       71832810       SUELDO SEDANO ADRIA                               124            
+20190913       71578206       ARROYO TOMASICHE NATALIA                          320            
+20190914       47844324       VILCA LEE NESTOR HUGO                             101            
+20190915       50201756       ZEGARRA PENA CARMELA                              142            
+20190915       38862473       WONG MAEIREIZO BEATRIZ                            339            
+20190915       52002275       CASANOVA ZEGARRA MARITZA                          110            
+20190916       87495937       MORALES PASQUEL KARIN MARIBEL                     304            
+20190916       52002275       CASANOVA ZEGARRA MARITZA                          118            
+20190916       12270502       CUEVA FUENTES CINTHIA DELIA                       316            
+20190917       37080813       FLORIAN VALDERRAMA JOSE                           203            
+20190919       49927087       INGA PALOMARES ERIKA                              146            
+20190919       89314225       RIOS DURAND CARLOS EDILBERTO                      149            
+20190920       15559308       BRAVO CORTES JANET FLOR                           161            
+20190922       82870470       SEDANO RETAMOSO ELIA YOLANDA                      106            
+20190923       35671623       EPIQUEN YEP GUIDA VICTORIA                        321            
+20190923       96693273       VALDERRAMA BERROCAL EVERT                         311            
+20190924       89941095       ARCA LARRIEGA LUCERO YLIANA                       131            
+20190925       89941095       ARCA LARRIEGA LUCERO YLIANA                       134            
+20190925       77367073       JAUREGUI DEL CASTILLO VICTOR RICARDO              157            
+20190926       54141214       DURAND MIRANDA MIGUEL JUAN                        333            
+20190926       38862473       WONG MAEIREIZO BEATRIZ                            321            
+20190926       35912665       MARTINEZ CRUZ EVERT RONY                          339            
+20190927       15559308       BRAVO CORTES JANET FLOR                           140            
+20190927       63291514       LAU ZAVALETA YDALI ELIA                           124            
+20190928       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   305            
+20190928       50201756       ZEGARRA PENA CARMELA                              106            
+20190928       90467829       IPARRAGUIRRE PEREZ NICOLAS                        327            
+20190928       54447051       AVILA DEL CASTILLO ANNIE                          150            
+20190928       50200823       LEYVA SAM DIANA DELIA                             111            
+20190929       64178096       VIZCARRA CARBAJAL IVAN FAUSTO                     322            
+20190930       99950484       CORTES CORTEZ RAUL ALEX                           329            
+===============================================================================================
+Ano: 2019 Mes: 10
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20191001       53374153       SERRANO IBEROS FRANCISCO                          305            
+20191001       54447051       AVILA DEL CASTILLO ANNIE                          133            
+20191002       70414420       AVILA REYES TATIANA                               144            
+20191003       88167677       PRADO VERA JUAN                                   160            
+20191003       87282766       SUAREZ CHANG GLORIA                               306            
+20191003       75348522       LOZADA FORZANI DELIA                              157            
+20191004       64178096       VIZCARRA CARBAJAL IVAN FAUSTO                     207            
+20191004       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    305            
+20191005       24859596       FLORIAN CUBA CHRISTIAN                            310            
+20191006       44188994       VILCARA YALLICO MAGALI                            126            
+20191007       81799482       CERNA CERNA CINTHIA                               309            
+20191007       34248357       LEYVA LANDEO NANCY SONIA                          305            
+20191007       49428502       RIVERO CORTEZ WILVER ALFONSO                      306            
+20191008       77763722       FARFAN SALAZAR MARGOT                             129            
+20191008       15029228       VALVERDE MAEIREIZO MELVIN JAIR                    144            
+20191009       48878256       RAFFO CORONADO ROLANDO                            137            
+20191011       88854166       PINTO ROJAS JUVENAL FRANCISCO                     164            
+20191012       30441350       RETAMOSO SALAMANCA DELIA MARITZA                  339            
+20191012       70414420       AVILA REYES TATIANA                               331            
+20191013       50200823       LEYVA SAM DIANA DELIA                             138            
+20191014       35912665       MARTINEZ CRUZ EVERT RONY                          156            
+20191017       99950484       CORTES CORTEZ RAUL ALEX                           101            
+20191017       63736112       ZAMORA ZAVALETA RONAL MANUEL                      325            
+20191018       48878256       RAFFO CORONADO ROLANDO                            145            
+20191018       32090869       SUELDO ANTEZANO LUIS JESUS                        145            
+20191018       70414420       AVILA REYES TATIANA                               112            
+20191019       35297848       ASTETE CHANG GUIDA                                335            
+20191019       60784914       RUIZ ZEVALLOS WALTER RONY                         319            
+20191020       60335381       DIAZ TANG ENRIQUE                                 118            
+20191021       63736112       ZAMORA ZAVALETA RONAL MANUEL                      302            
+20191021       47528229       SAAVEDRA GONZALES WILMER                          158            
+20191023       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    165            
+20191023       52002275       CASANOVA ZEGARRA MARITZA                          154            
+20191023       67185679       FLORENCIO CORONADO ALONSO                         135            
+20191024       73972114       AVILA MARTEL JAIME MANUEL                         144            
+20191025       84186239       RIVERO CORONADO HECTOR ALONSO                     158            
+20191026       80310768       MINAYA BERROCAL HELI                              341            
+20191027       85501710       VIZCARDO SINCHE MARIBEL                           112            
+20191027       39544560       LUNA VARGAS WALDEMAR                              127            
+20191027       16477908       BACA CAMACHO MILAGROS NATALIA                     104            
+20191027       48878256       RAFFO CORONADO ROLANDO                            118            
+20191028       31205866       VIZCARRA MONTERO JAIR                             129            
+20191029       85501710       VIZCARDO SINCHE MARIBEL                           203            
+20191029       87282766       SUAREZ CHANG GLORIA                               154            
+20191029       54447051       AVILA DEL CASTILLO ANNIE                          105            
+20191031       64532449       INFANTES MERCADO LUIS WALDEMAR                    122            
+20191031       60784914       RUIZ ZEVALLOS WALTER RONY                         165            
+20191031       50200823       LEYVA SAM DIANA DELIA                             139            
+===============================================================================================
+Ano: 2019 Mes: 11
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20191101       50200823       LEYVA SAM DIANA DELIA                             114            
+20191102       63736112       ZAMORA ZAVALETA RONAL MANUEL                      147            
+20191102       28820944       RIOS ZAMORA INES                                  131            
+20191102       74325123       TANG MOSCOSO JOHANA                               306            
+20191102       79766395       FUENTES ESCALANTE PATRICIA ELIZABETH              149            
+20191104       71578206       ARROYO TOMASICHE NATALIA                          111            
+20191104       15115705       HERNANDEZ CORRALES GUILLERMO                      163            
+20191104       48450395       RAMIREZ ASTETE KARINA ESTEFANIA                   147            
+20191105       48450395       RAMIREZ ASTETE KARINA ESTEFANIA                   325            
+20191106       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     123            
+20191107       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     316            
+20191107       19963454       SALAMANCA CABRERA NESTOR EVERT                    315            
+20191108       81528434       EPIQUEN AVILA ENRIQUE                             133            
+20191112       96693273       VALDERRAMA BERROCAL EVERT                         142            
+20191112       80457845       NORABUENA MOYA HECTOR                             323            
+20191112       77763722       FARFAN SALAZAR MARGOT                             337            
+20191113       68303148       PATINO BOLANOS DELICIA VIRGINIA                   160            
+20191114       69252518       GORDILLO SANCHEZ RONALD JUVENAL                   142            
+20191116       47528229       SAAVEDRA GONZALES WILMER                          330            
+20191116       51929951       CHAVEZ BERROCAL JOHAN                             149            
+20191117       30046639       SALAMANCA VEGA VIRGINIA MARTHA                    160            
+20191117       16925690       CABRERA TORO FANNY                                166            
+20191118       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     335            
+20191119       27185429       SOLIS CHUNG ROLANDO                               151            
+20191119       79641328       TOKESHI GUEVARA JAIME                             148            
+20191120       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     155            
+20191121       19963454       SALAMANCA CABRERA NESTOR EVERT                    111            
+20191122       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             101            
+20191122       77763722       FARFAN SALAZAR MARGOT                             324            
+20191123       27185429       SOLIS CHUNG ROLANDO                               332            
+20191125       60784914       RUIZ ZEVALLOS WALTER RONY                         116            
+20191126       15559308       BRAVO CORTES JANET FLOR                           133            
+20191126       99950484       CORTES CORTEZ RAUL ALEX                           333            
+20191127       15559308       BRAVO CORTES JANET FLOR                           164            
+20191127       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    334            
+20191127       35671623       EPIQUEN YEP GUIDA VICTORIA                        315            
+20191127       89314225       RIOS DURAND CARLOS EDILBERTO                      151            
+20191129       49927087       INGA PALOMARES ERIKA                              137            
+20191129       82031355       EGUSQUIZA BERROCAL DORIS NANCY                    165            
+===============================================================================================
+Ano: 2019 Mes: 12
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20191203       29989682       CAMACHO PAIRAZAMAN YDALI LUCERO                   302            
+20191204       87495937       MORALES PASQUEL KARIN MARIBEL                     324            
+20191205       77367073       JAUREGUI DEL CASTILLO VICTOR RICARDO              127            
+20191205       47844324       VILCA LEE NESTOR HUGO                             205            
+20191206       86718074       ESCALANTE ROJAS INES ADRIA                        104            
+20191207       75945248       MEJIA RODRIGUEZ INES VALENTINA                    307            
+20191210       80457845       NORABUENA MOYA HECTOR                             133            
+20191210       15029228       VALVERDE MAEIREIZO MELVIN JAIR                    201            
+20191215       35912665       MARTINEZ CRUZ EVERT RONY                          155            
+20191216       77367073       JAUREGUI DEL CASTILLO VICTOR RICARDO              134            
+20191216       64532449       INFANTES MERCADO LUIS WALDEMAR                    149            
+20191217       12270502       CUEVA FUENTES CINTHIA DELIA                       330            
+20191217       34976629       LOZADA ARGUEDAS FELICITA VALENTINA                201            
+20191218       54447051       AVILA DEL CASTILLO ANNIE                          132            
+20191218       16136330       YEP PRECIADO RICHARD                              118            
+20191219       35912665       MARTINEZ CRUZ EVERT RONY                          136            
+20191220       32244565       HENRIQUEZ PAREDES PAUL RAFAEL                     208            
+20191220       47528229       SAAVEDRA GONZALES WILMER                          302            
+20191221       12270502       CUEVA FUENTES CINTHIA DELIA                       104            
+20191221       87495937       MORALES PASQUEL KARIN MARIBEL                     131            
+20191222       53853385       SOLIS NARVAEZ MARIA MADELEINE                     146            
+20191222       15029228       VALVERDE MAEIREIZO MELVIN JAIR                    322            
+20191223       26522329       SANCHEZ DEL CASTILLO FIORELLA ROSARIO             122            
+20191225       86718074       ESCALANTE ROJAS INES ADRIA                        151            
+20191225       27864822       FIGUEROA MEDINA MADELEINE                         134            
+20191226       35671623       EPIQUEN YEP GUIDA VICTORIA                        328            
+20191230       16477908       BACA CAMACHO MILAGROS NATALIA                     146            
+20191231       31107104       MOSCOSO ARIAS FIORELLA                            154            
+20191231       60335381       DIAZ TANG ENRIQUE                                 114            
+20191231       73567806       ARCA SANCHEZ MAGALI BEATRIZ                       124            
+===============================================================================================
+Ano: 2019 Mes: 7
+FECHA          LICENCIA       NOMBRE                                            INFRACCION     
+===============================================================================================
+20190722       35912665       MARTINEZ CRUZ EVERT RONY                          156            
