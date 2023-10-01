@@ -1,0 +1,81 @@
+==========================================================================================
+CODIGO    DESCRIPCION                                                 CANTIDAD  PRECIO    
+==========================================================================================
+459032    GELATINA DANY LIMON 125GR                                   24        5.38      
+422763    GALLETAS SUAVICREMAS FRESA 158GR                            14        13.85     
+580927    TORTILLAS DE HARINA DEL HOGAR 22P. 840GR                    6         19.07     
+923804    SAL BAJA PACIFIC BOLSA 1KGR                                 18        5.26      
+412041    TORTILLAS DE MAIZ 1KG                                       15        14.93     
+690039    CORAZONES DE OREJONA PZA                                    11        10.79     
+151641    YOGHURT P BEBER LACTIGURT COCO 250G                         10        9.87      
+423073    POLVO PARA HORNEAR REXAL 15KILOS                            10        350.22    
+632129    VINAGRE BLANCO CLEMENTE JACQUES 3.8LT                       15        24.29     
+178097    CROQUETAS PEDIGREE BENEFUL 10.1KG                           12        270.88    
+947176    SALSA DE CHILE HABANERO ROJO 260GR                          15        14.93     
+178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                     13        7.18      
+170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR                     12        16.50     
+455703    PALOMITAS POFETS FLAMIN HOT 28GR                            12        6.88      
+330512    YOGHURT LALA LIGHT 240GR                                    6         7.04      
+365379    YOGHURT FRESA CON GRANOLA CHELSY 240GR                      0         6.72      
+900698    VAINILLA MOLINA 500ML                                       11        19.26     
+118050    PAPAYA                                                      23        20.99     
+365906    AGUACATE REGIONAL KG.1.000 GR                               22        26.65     
+511824    FLAN LALA SABOR VAINILLA 100GR                              14        5.88      
+285807    YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G                    5         8.83      
+415932    SOPA MARUCHAN CAMARON 71GR                                  22        7.68      
+397718    LECHE LALA SEMI DESLACTOSADA 1LT                            3         16.98     
+696000    MEDIA CREMA NESTLE 1LT                                      18        40.80     
+790585    SALSA CASERA ENEDELIA 250GR                                 5         14.46     
+374588    BEBIDA DE SOYA ADES GUANABANA 946ML                         18        18.07     
+901816    JUGO VALLE FRUT CITRUS 12 250ML                             11        50.49     
+941699    MAIZ POZOLERO EXTRA 1KGR                                    21        23.28     
+261009    CUITLACOCHE MONTEBLANCO 215GR                               12        32.28     
+748008    SANDWICH COMBINADA 3 FLORES 150GR                           13        8.23      
+536472    SABRITAS CASERAS JALAPENO 42GR                              20        9.66      
+662083    TAKIS SALSA BRAVA 62GR                                      6         7.65      
+349098    SALSA HABANERA ROJA GUACAMAYA 150GR                         23        10.25     
+967922    NESCAFE VAINILLA FRESCA 25GR                                11        6.88      
+935218    FRIJOL AMARILLO KG                                          0         39.82     
+311343    YOGHURT FRESA NESTLE 1KG                                    16        23.27     
+979865    GALLETAS MARIAS CUETARA 160GR                               22        6.10      
+874884    BEBIDA NARANJA BEBERE 470ML                                 17        6.72      
+744237    ALUBIAS ANTIQUA 540GR                                       3         17.85     
+651034    MANGO EN REBANADAS LA MORENA 800GR                          14        24.11     
+863714    LECHE DE COCO CALAHUA 500ML                                 5         13.88     
+891590    MIEL DE ABEJA VIRGEN 1KG                                    9         30.92     
+179485    MOLE SURTIDO CON ESPECIAS 250GR                             11        25.11     
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                      24        10.89     
+387889    CONDIMENTO PARA BIRRIA CUCU.                                7         80.95     
+390920    AGUA NIAGARA 500ML                                          15        5.64      
+434681    ELOTE DORADO DEL MONTE 225GR                                11        5.92      
+582920    PINGUINOS MARINELA 40GR                                     6         4.40      
+565169    PASTILLA PEPTO BISMOL                                       27        3.15      
+182942    ZAPOTE                                                      6         28.39     
+992564    LECHUGA ROMANA                                              8         20.79     
+674767    CHICHARRON BOTANA CON CHAMOY BOLSA                          3         10.92     
+620036    SABRITAS ORIGINAL SAL 490GR                                 13        63.30     
+485302    YOGHURT LALA FRESA 240GR                                    23        6.68      
+856894    HARINA MAZATL 5KG                                           30        56.07     
+406688    CHURROMAIS CON LIMON 38GR                                   20        5.62      
+793026    YOGHURT NATURAL LIGHT LALA 1KG                              30        25.86     
+826317    CHAMYTO BIG 114ML                                           0         7.58      
+126218    TANJERINA                                                   18        5.58      
+940876    SAL DE AJO McCORMICK 1.16KG                                 8         50.88     
+872819    GELATINA DE LECHE VAINILLA DANETTE 100GR                    8         5.13      
+675770    JARABE DE MAMEY 1.25KG                                      10        45.49     
+714788    PAPA EN CUBOS DEL FUERTE 12 380GR.                          10        9.53      
+748899    NARANJA SIN SEMILLA                                         23        10.24     
+997564    MANGO ECUATORIANO                                           11        16.50     
+785062    CORAZON DE ALCACHOFA SAN MIGUEL                             7         17.36     
+961802    ACHIOTE LA EXTRA 1KG                                        13        45.54     
+588754    LIMONADA H2O 250ML                                          9         8.58      
+374253    TE DE MANZANILLA NEBO 24 1GR                                18        13.81     
+874503    GALLETAS LORS SNACKS MARINELA 75GR                          4         9.54      
+430669    AJO GRANULADO DE CALIFORNIA KIRKLAND 51.                    0         65.12     
+778066    CHILES CHIPOTLES LA COSTENA 380GR                           10        18.53     
+283781    FRIJOLES REFRITOS ISADORA 430GR                             9         13.28     
+882099    NESQUIK CHOCOLATE 200GR                                     15        13.51     
+375507    TE DE MANZANILLA McCORMICK 100 1.2GR                        15        55.18     
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                         42        5.29      
+613623    CHILE PASILLA MULATO LARGO 100GR                            17        18.19     
+204890    LECHE YAQUI DESLACTOSADA 1LT                                10        19.31     

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/* 
+/*
  * File:   MuestraPunteros.h
  * Author: cueva
  *
@@ -13,7 +13,12 @@
 
 #ifndef MUESTRAPUNTEROS_H
 #define MUESTRAPUNTEROS_H
-    void imprimepedidos(void *);
-    void imprimeproductos(void *);
-    void imprimerepfinal(void *);
+void imprimepedidos(void *);
+void imprimeproductos(void *);
+void imprimerepfinal(void *);
+
+void imprimereporte(void *cli);
+void imprimirPedidos(void *ped, ofstream &ach);
+void impFecha(int fecha, ofstream &ach);
+
 #endif /* MUESTRAPUNTEROS_H */
