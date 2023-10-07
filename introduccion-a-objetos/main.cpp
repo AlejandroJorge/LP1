@@ -1,20 +1,14 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-#include "Rectangulo.h"
+#include "Cadena.h"
 
 int main()
 {
 
-  Rectangulo miRectangulo = Rectangulo(5, 4);
-
-  miRectangulo
-      .setAltura(10)
-      .setBase(8.5)
-      .mostrarPropiedades()
-      .setBase(3)
-      .setAltura(8)
-      .mostrarPropiedades();
+  class Cadena c1, xc2;
+  c1.setCad("Juan");
+  // c2.imprimir();
 
   return 0;
 }
