@@ -1,0 +1,696 @@
+=======================================================================================================================================
+FECHA: 20230824
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    50375303       JXD-139        Terma Evolucion Soltu                                  6              586.02         3516.12        
+1    13245501       AWB-345        Deshumedecedor DM-189H                                 1              800.37         800.37         
+2    12663268       AHB-459        Reproductor DVD Portatil TV 7                          3              685.50         2056.50        
+3    36380447       OWN-701        Olla arrocera                                          5              220.82         1104.10        
+4    88956889       TMN-884        Secadora de mano                                       1              310.65         310.65         
+5    59162728       FEG-454        Sillon masajeador                                      4              1695.70        6782.80        
+6    33713901       ZVA-180        Refrigeradora 322 litros                               6              2903.13        17418.78       
+7    86402303       OQI-373        Cocina Empotrable Premio Plus                          3              906.16         2718.48        
+8    24995742       KCO-488        Ventilador de pared                                    4              679.60         2718.40        
+9    97403853       BCK-361        Tablets 10.1                                           5              1872.53        9362.65        
+10   79901434       OXP-732        Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8 2              16504.47       33008.94       
+11   26290971       TYF-885        Videojuego TW 4                                        3              794.14         2382.42        
+12   26976877       AFL-718        Vinera                                                 5              1664.97        8324.85        
+13   79464412       JXD-139        Terma Evolucion Soltu                                  4              586.02         2344.08        
+14   25171011       QRC-609        Camara de video EOS                                    3              1806.66        5419.98        
+15   89148118       JFC-432        DVD DVM-L79                                            5              307.67         1538.35        
+16   45828535       AVM-258        Cocina a gas Toscana                                   2              2831.23        5662.46        
+17   46462527       ISU-815        Audifonos                                              6              619.89         3719.34        
+18   95015539       CSZ-863        Video Filmadora                                        2              1713.57        3427.14        
+19   11602775       JJN-837        Lavadora Tecnologia Wobbie                             2              1979.92        3959.84        
+20   15210391       OTW-288        Cavba de Vinos GE cap. 34 botellas                     3              1119.18        3357.54        
+21   43877279       SSD-176        Refrigeradora Linea Gallery                            4              567.71         2270.84        
+22   54761731       FVB-607        Cocina a gas Essenza BL                                5              2953.07        14765.35       
+23   85949265       LDR-510        Mini componente ESX9                                   6              2701.87        16211.22       
+24   78078115       SSD-176        Refrigeradora Linea Gallery                            1              567.71         567.71         
+25   35565959       VJI-529        Horno Empotrable Electrico                             5              1102.67        5513.35        
+26   45783712       VZV-827        Refrigeradora Top Mount                                1              1784.27        1784.27        
+27   50365593       VVS-017        Tablets MW 0731                                        3              2599.72        7799.16        
+28   87800799       JDC-028        Puntero Laser                                          5              30.48          152.40         
+29   73914283       OBI-353        Terma Milenium                                         4              2960.56        11842.24       
+30   45877001       RDT-761        Horno Microondas con dorador                           5              904.95         4524.75        
+31   42928709       GLC-370        Video Proyector Power Lite 95                          6              552.24         3313.44        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 188678.52
+Total perdido por falta de stock: 0.00
+=======================================================================================================================================
+FECHA: 20230903
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    50375303       CRU-009        Lavavajilla                                            5              2655.78        13278.90       
+1    26290971       PVZ-181        Ventilador circular                                    3              309.77         929.31         
+2    73535476       FLJ-040        Parlantes portatiles SOUNDSHOOTER                      4              3703.37        14813.48       
+3    16552775       AWB-345        Deshumedecedor DM-189H                                 6              800.37         SIN STOCK      
+4    73535476       UWA-476        Autoradio MEX BT3150U                                  5              1191.39        5956.95        
+5    95751208       UOD-420        Mini componente ESX6                                   4              828.94         3315.76        
+6    15561764       GBJ-693        Radio CD                                               2              314.20         628.40         
+7    43043986       ZEX-027        Tablet Xperia Z                                        1              3843.75        3843.75        
+8    96258632       CRU-009        Lavavajilla                                            2              2655.78        SIN STOCK      
+9    79901434       ZEX-027        Tablet Xperia Z                                        2              3843.75        7687.50        
+10   12663268       YYU-726        Reproductor DVD Portatil                               4              767.82         3071.28        
+11   71378466       FVQ-662        Cocina a gas Pro 6300 INOX                             2              1060.68        2121.36        
+12   26976877       VTV-269        Extractor de aire                                      4              854.48         3417.92        
+13   42798099       OQI-373        Cocina Empotrable Premio Plus                          2              906.16         1812.32        
+14   23928045       TMN-884        Secadora de mano                                       2              310.65         621.30         
+15   69324480       UOD-420        Mini componente ESX6                                   3              828.94         2486.82        
+16   59407188       OWN-701        Olla arrocera                                          1              220.82         220.82         
+17   57263719       OTH-462        Lavadora Semi-Automatica                               5              531.04         2655.20        
+18   37110873       FCN-617        Televisor Plasma 60                                    6              4121.05        24726.30       
+19   96659352       GBJ-693        Radio CD                                               3              314.20         942.60         
+20   52097922       UTN-601        Autoradio XAV-601 BT                                   2              562.51         1125.02        
+21   79901434       CSZ-863        Video Filmadora                                        5              1713.57        8567.85        
+22   89429489       UXG-019        Terma de acumulacion                                   1              934.91         934.91         
+23   52097922       XSD-310        Refrigeradora No frost                                 6              2259.93        13559.58       
+24   33713901       VVS-017        Tablets MW 0731                                        1              2599.72        2599.72        
+25   62566305       AVM-258        Cocina a gas Toscana                                   1              2831.23        2831.23        
+26   32904023       RBE-789        Televisor SMART TV                                     6              3303.07        19818.42       
+27   99842319       DUG-251        Cocina a gas FFG3047SL                                 2              1597.96        3195.92        
+28   40112594       FVQ-662        Cocina a gas Pro 6300 INOX                             4              1060.68        4242.72        
+29   16151792       AQS-362        Teclado Inalambrico USB                                1              233.05         233.05         
+30   52097922       XZG-521        Secadora Electrica FAQE7001LW                          4              704.27         2817.08        
+31   54761731       OTS-581        Galaxy Note 8.0                                        5              2653.10        13265.50       
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 165720.97
+Total perdido por falta de stock: 10113.78
+=======================================================================================================================================
+FECHA: 20230827
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    22777006       YYK-309        Refrigeradora Door in Door                             3              4079.44        12238.32       
+1    63437380       PJG-338        Impresora Mutifuncional Inalambricar                   2              1067.80        2135.60        
+2    87813843       MLE-193        Cocina a gas Ingenious                                 4              2779.41        11117.64       
+3    79140840       DFF-034        Grabadora de voz digital portátil con USB integrado    3              259.25         777.75         
+4    73914283       OBI-353        Terma Milenium                                         1              2960.56        2960.56        
+5    43053402       YOT-530        Deshumedecedor DM-190H                                 2              941.73         1883.46        
+6    52097922       ISU-815        Audifonos                                              5              619.89         3099.45        
+7    32565207       UXG-019        Terma de acumulacion                                   4              934.91         3739.64        
+8    37110873       YZD-580        Mini componente ESX8                                   5              1582.29        SIN STOCK      
+9    12663268       XSD-310        Refrigeradora No frost                                 6              2259.93        13559.58       
+10   11602775       YYK-309        Refrigeradora Door in Door                             3              4079.44        12238.32       
+11   15561764       FYF-898        Proyector a color                                      2              1160.46        2320.92        
+12   60574154       III-576        Campana Extractora Venus Plus                          6              1077.65        6465.90        
+13   73185299       QUU-384        Lavavajilla Blue Touch                                 3              2545.54        SIN STOCK      
+14   43877279       SNY-500        Cocina a gas Praga Quarzo                              4              3297.09        13188.36       
+15   40112594       KSO-608        Secadora Modelo Italica                                6              914.17         5485.02        
+16   41036366       AQS-362        Teclado Inalambrico USB                                2              233.05         466.10         
+17   25171011       CIM-038        Cocina Empotrable Petra                                1              2544.64        2544.64        
+18   96659352       KQA-580        Cocina Empotrable Glassy Plus                          6              2907.92        17447.52       
+19   79140840       HLR-109        Parlantes inalambricos                                 1              439.47         439.47         
+20   90237332       OQI-373        Cocina Empotrable Premio Plus                          1              906.16         906.16         
+21   89863424       SSE-115        Refrigeradora  CoolStyle 311N Steel                    4              3243.58        12974.32       
+22   86828079       YGV-332        Impresora Led Color                                    1              2517.66        2517.66        
+23   78757121       KJX-387        Ventilador de techo                                    4              613.19         2452.76        
+24   78078115       XOA-735        Congeladora Vertical 392 Lts.                          2              2708.07        5416.14        
+25   67418025       EVN-510        Cocina a gas FFG3011LB                                 5              2672.30        13361.50       
+26   95751208       BRD-969        Centro de Lavado Electrico                             4              2579.72        10318.88       
+27   26976877       KQQ-136        Impresora Laser EPSON                                  3              1139.56        3418.68        
+28   38913831       FLW-631        Radio Reloj Despertador                                3              819.04         2457.12        
+29   57263719       OTH-462        Lavadora Semi-Automatica                               2              531.04         1062.08        
+30   63437380       YEZ-591        Lavadora WA                                            5              1320.03        6600.15        
+31   91897732       OXP-732        Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8 2              16504.47       33008.94       
+32   26233063       JFC-432        DVD DVM-L79                                            4              307.67         1230.68        
+33   55552996       SSD-176        Refrigeradora Linea Gallery                            6              567.71         3406.26        
+34   22777006       XLF-273        Centro de Lavado a Gas                                 2              2371.95        4743.90        
+35   13245501       JCW-489        Conservadora Exibidora CMVE-250                        5              2064.97        10324.85       
+36   26976877       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    4              1979.07        7916.28        
+37   38637282       OFS-384        Parlantes Bluetooth                                    1              805.22         805.22         
+38   84165595       JFC-432        DVD DVM-L79                                            3              307.67         923.01         
+39   45877001       GBJ-693        Radio CD                                               5              314.20         SIN STOCK      
+40   66409237       CRU-009        Lavavajilla                                            4              2655.78        SIN STOCK      
+41   78922174       OQI-373        Cocina Empotrable Premio Plus                          3              906.16         2718.48        
+42   54716824       CRU-009        Lavavajilla                                            6              2655.78        SIN STOCK      
+43   17913944       XLF-273        Centro de Lavado a Gas                                 4              2371.95        9487.80        
+44   57690875       XTE-383        Rack Fijo 32/60                                        6              261.01         1566.06        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 249725.18
+Total perdido por falta de stock: 43676.87
+=======================================================================================================================================
+FECHA: 20230828
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    42157219       OTS-581        Galaxy Note 8.0                                        5              2653.10        13265.50       
+1    77484838       UWA-476        Autoradio MEX BT3150U                                  1              1191.39        1191.39        
+2    79464412       CJE-310        Mini componente GPX33                                  5              3643.39        18216.95       
+3    76388967       SJQ-827        Reproductor Multimedia Touch Screen                    5              1719.56        8597.80        
+4    78922174       TKM-141        Cocina a gas Marsella                                  5              402.24         2011.20        
+5    94080926       NMV-644        Lavadora Automatica                                    5              3272.48        16362.40       
+6    57263719       BWD-036        Cocina Empotrable Klimatica                            3              1086.34        3259.02        
+7    17972674       ZWF-661        Impresora Led                                          1              2731.61        2731.61        
+8    89148118       XLF-273        Centro de Lavado a Gas                                 5              2371.95        11859.75       
+9    42928709       NSM-283        Cocina a gas FFG3053SL                                 5              936.81         4684.05        
+10   57690875       CIM-038        Cocina Empotrable Petra                                3              2544.64        7633.92        
+11   80048864       BCK-361        Tablets 10.1                                           3              1872.53        5617.59        
+12   59407188       BIT-434        Campana Extractora modelo Glass                        6              375.09         2250.54        
+13   32565207       FVQ-662        Cocina a gas Pro 6300 INOX                             5              1060.68        5303.40        
+14   24995742       YMU-875        Cocina a gas Plermo Quarzo                             3              3232.10        9696.30        
+15   89298238       QFP-254        Calentador electrico instantaneo                       2              180.65         361.30         
+16   44679500       AWB-345        Deshumedecedor DM-189H                                 1              800.37         800.37         
+17   35584593       AVM-258        Cocina a gas Toscana                                   4              2831.23        11324.92       
+18   85871751       MYC-756        Cocina a gas Leganza INOX                              2              1506.80        3013.60        
+19   43043986       QFP-254        Calentador electrico instantaneo                       5              180.65         903.25         
+20   71463316       UWA-476        Autoradio MEX BT3150U                                  3              1191.39        3574.17        
+21   71378466       ARS-231        Audifonos Stereos                                      6              327.62         1965.72        
+22   79475585       KQQ-136        Impresora Laser EPSON                                  6              1139.56        6837.36        
+23   32904023       KJX-387        Ventilador de techo                                    3              613.19         1839.57        
+24   42157219       KCO-488        Ventilador de pared                                    2              679.60         1359.20        
+25   71463316       BCN-855        Cocina a gas Bahia Can                                 4              4015.92        16063.68       
+26   66409237       UXG-019        Terma de acumulacion                                   4              934.91         3739.64        
+27   23928045       OXP-732        Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8 3              16504.47       49513.41       
+28   26233063       KSO-608        Secadora Modelo Italica                                3              914.17         2742.51        
+29   86241107       CIM-038        Cocina Empotrable Petra                                2              2544.64        5089.28        
+30   35565959       DFJ-952        Cocina a gas Prestige 60 INOX                          2              3342.77        6685.54        
+31   73786035       DEN-125        Rack Fijo 26/32                                        4              562.46         2249.84        
+32   45828535       TZY-323        Terma a gas                                            6              2341.01        14046.06       
+33   26976877       SSE-115        Refrigeradora  CoolStyle 311N Steel                    4              3243.58        12974.32       
+34   80048864       PPX-620        Aire acondicionado tipo split                          1              2873.42        2873.42        
+35   60574154       KDA-627        Cocina a gas Ijasmin                                   5              1424.46        7122.30        
+36   40112594       BCK-361        Tablets 10.1                                           2              1872.53        SIN STOCK      
+37   79372768       QVJ-982        Horno Microondas 0.7 p3                                6              1352.76        8116.56        
+38   43877279       QUU-384        Lavavajilla Blue Touch                                 5              2545.54        SIN STOCK      
+39   69975105       HFM-021        Horno Electrico                                        6              726.91         4361.46        
+40   43053402       FVQ-662        Cocina a gas Pro 6300 INOX                             6              1060.68        SIN STOCK      
+41   89863424       OTH-462        Lavadora Semi-Automatica                               6              531.04         3186.24        
+42   95161027       OQI-373        Cocina Empotrable Premio Plus                          1              906.16         906.16         
+43   62324793       OPJ-039        Secadora de Ropa                                       2              2765.64        5531.28        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 289862.58
+Total perdido por falta de stock: 22836.84
+=======================================================================================================================================
+FECHA: 20230904
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    33397650       IHG-413        Parlant Y pedestal PAM-83                              3              317.70         953.10         
+1    69324480       JCW-489        Conservadora Exibidora CMVE-250                        5              2064.97        10324.85       
+2    50375303       KQA-580        Cocina Empotrable Glassy Plus                          5              2907.92        14539.60       
+3    32565207       IDO-503        Laptop GamerVictus de 15.6                             6              3935.17        23611.02       
+4    63437380       III-576        Campana Extractora Venus Plus                          5              1077.65        5388.25        
+5    91897732       TMN-884        Secadora de mano                                       2              310.65         621.30         
+6    31611146       YOT-530        Deshumedecedor DM-190H                                 4              941.73         3766.92        
+7    85949265       JFC-432        DVD DVM-L79                                            4              307.67         1230.68        
+8    12663268       RAH-420        Cocina a gas Pro 6550 INOX                             3              157.01         471.03         
+9    88956889       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    2              1979.07        3958.14        
+10   38913831       BCN-855        Cocina a gas Bahia Can                                 3              4015.92        12047.76       
+11   44229880       JXD-139        Terma Evolucion Soltu                                  4              586.02         2344.08        
+12   42928709       XLF-273        Centro de Lavado a Gas                                 4              2371.95        9487.80        
+13   88956889       UWA-476        Autoradio MEX BT3150U                                  3              1191.39        3574.17        
+14   66409237       BRD-969        Centro de Lavado Electrico                             3              2579.72        7739.16        
+15   42928709       QFP-254        Calentador electrico instantaneo                       5              180.65         903.25         
+16   26233063       UWA-476        Autoradio MEX BT3150U                                  1              1191.39        1191.39        
+17   35565959       QRC-609        Camara de video EOS                                    5              1806.66        9033.30        
+18   50375303       YJD-279        Cocina a gas Florencia                                 5              1028.43        5142.15        
+19   27912250       QFR-958        Cocina a gas Bavaro                                    3              1607.46        4822.38        
+20   88995291       MTF-868        Impresora Monocromatica WorkForce M205                 3              971.59         2914.77        
+21   69975105       FQG-293        Rapiducha Premiun                                      5              2784.31        13921.55       
+22   76388967       PFD-286        Refrigeradora cap. 415 litros                          6              2776.02        16656.12       
+23   77191257       ZWF-661        Impresora Led                                          4              2731.61        SIN STOCK      
+24   91897732       PFD-286        Refrigeradora cap. 415 litros                          2              2776.02        5552.04        
+25   36380447       HLR-109        Parlantes inalambricos                                 2              439.47         878.94         
+26   50375303       VXS-438        Mouse Blue Tooth                                       4              60.11          240.44         
+27   25171011       DFJ-952        Cocina a gas Prestige 60 INOX                          4              3342.77        13371.08       
+28   48184351       TXM-139        Televisor LED FULL HD 3D                               1              1092.95        1092.95        
+29   45783712       YMU-875        Cocina a gas Plermo Quarzo                             4              3232.10        12928.40       
+30   94080926       SPR-580        Dispensador de Agua                                    5              404.35         2021.75        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 190728.37
+Total perdido por falta de stock: 10926.44
+=======================================================================================================================================
+FECHA: 20230830
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    97403853       KQQ-136        Impresora Laser EPSON                                  6              1139.56        6837.36        
+1    50365593       AFL-718        Vinera                                                 5              1664.97        8324.85        
+2    83505958       TYF-885        Videojuego TW 4                                        5              794.14         SIN STOCK      
+3    63437380       AWB-345        Deshumedecedor DM-189H                                 4              800.37         3201.48        
+4    19829266       TXM-139        Televisor LED FULL HD 3D                               3              1092.95        3278.85        
+5    32821689       ONB-903        Reproductor BLU-RAY 3D                                 3              653.67         1961.01        
+6    96258632       QHC-492        Terma Solucion                                         2              1907.23        3814.46        
+7    69975105       WZD-331        Refrigeradora ECOTT 465 IX                             6              1213.79        7282.74        
+8    79140840       OTH-462        Lavadora Semi-Automatica                               1              531.04         531.04         
+9    87800799       GBD-525        Refrigeradora Puertas Mágicas                          6              2700.95        16205.70       
+10   62566305       GXF-122        Televisor Ultra HDTV                                   5              1110.16        5550.80        
+11   42928709       QIL-029        Mini componente Shake-5                                4              2990.55        11962.20       
+12   23928045       TKM-141        Cocina a gas Marsella                                  5              402.24         2011.20        
+13   32565207       TKM-141        Cocina a gas Marsella                                  4              402.24         1608.96        
+14   26290971       GKG-558        Horno Microondas MS2042D                               3              1674.24        5022.72        
+15   86402303       RBE-789        Televisor SMART TV                                     6              3303.07        19818.42       
+16   48184351       KQA-580        Cocina Empotrable Glassy Plus                          2              2907.92        5815.84        
+17   85949265       VRR-793        Rack Giratorio 32/60                                   5              241.71         1208.55        
+18   15210391       DON-719        Secadora de Cabello SG-3035                            2              360.69         721.38         
+19   89429489       VCL-867        Cocina a gas Rubi 2                                    6              699.07         4194.42        
+20   35565959       JXD-139        Terma Evolucion Soltu                                  5              586.02         2930.10        
+21   96659352       KQQ-136        Impresora Laser EPSON                                  3              1139.56        SIN STOCK      
+22   62324793       XBD-314        Cocina a gas Fassina                                   5              1444.90        7224.50        
+23   89863424       QRC-609        Camara de video EOS                                    3              1806.66        5419.98        
+24   97403853       GBJ-693        Radio CD                                               4              314.20         SIN STOCK      
+25   73185299       AVM-258        Cocina a gas Toscana                                   3              2831.23        8493.69        
+26   15210391       AQS-362        Teclado Inalambrico USB                                2              233.05         466.10         
+27   45877001       KBY-991        Home Theater E4100                                     6              1101.08        6606.48        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 140492.83
+Total perdido por falta de stock: 8646.18
+=======================================================================================================================================
+FECHA: 20230822
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    78757121       OQI-373        Cocina Empotrable Premio Plus                          3              906.16         2718.48        
+1    71984468       PQH-935        Rack Giratorio 26/32                                   2              94.45          188.90         
+2    43488351       XLF-273        Centro de Lavado a Gas                                 5              2371.95        11859.75       
+3    15210391       RSE-049        Radio CD/DVD - TV                                      5              4037.51        20187.55       
+4    78078115       XZR-640        Lavadora-Secadora FWD                                  5              2390.58        11952.90       
+5    77484838       BTO-226        Friobar                                                4              863.19         3452.76        
+6    25171011       OPT-996        Mini componente GPX88                                  6              1367.48        8204.88        
+7    95161027       VJI-529        Horno Empotrable Electrico                             2              1102.67        2205.34        
+8    27912250       LWG-915        Cocina a gas Murano                                    4              1101.47        4405.88        
+9    15561764       JYQ-045        Horno Microondas 1.2 p3                                6              267.15         1602.90        
+10   78757121       ZXK-295        Cocina Empotrable Electrica                            4              3679.43        14717.72       
+11   76388967       RSE-049        Radio CD/DVD - TV                                      6              4037.51        24225.06       
+12   37110873       GXF-122        Televisor Ultra HDTV                                   2              1110.16        2220.32        
+13   16151792       WZD-331        Refrigeradora ECOTT 465 IX                             3              1213.79        SIN STOCK      
+14   73535476       CIM-038        Cocina Empotrable Petra                                3              2544.64        7633.92        
+15   89298238       QTK-083        Congeladora Conservador Vertical 476 Lts.              3              2682.73        8048.19        
+16   78078115       DFF-034        Grabadora de voz digital portátil con USB integrado    2              259.25         518.50         
+17   77484838       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    6              1979.07        11874.42       
+18   35584593       KCO-488        Ventilador de pared                                    1              679.60         679.60         
+19   78078115       TMJ-043        Lavadora EcoBubble                                     3              2400.79        7202.37        
+20   38913831       YZD-580        Mini componente ESX8                                   1              1582.29        1582.29        
+21   87800799       QRC-609        Camara de video EOS                                    1              1806.66        1806.66        
+22   66409237       ICX-503        Cocina a gas Roma                                      5              1221.02        6105.10        
+23   86241107       HFC-845        Televisor Serie LED R555A                              3              3736.75        11210.25       
+24   36008913       HFC-845        Televisor Serie LED R555A                              6              3736.75        22420.50       
+25   64394265       YYK-309        Refrigeradora Door in Door                             6              4079.44        24476.64       
+26   32821689       ISU-815        Audifonos                                              1              619.89         619.89         
+27   26290971       TZY-323        Terma a gas                                            5              2341.01        11705.05       
+28   77191257       AVM-258        Cocina a gas Toscana                                   6              2831.23        16987.38       
+29   52097922       MMA-577        Congeladora Horizontal 252 Lts.                        2              1780.30        3560.60        
+30   84165595       QHC-492        Terma Solucion                                         4              1907.23        7628.92        
+31   93845419       NSR-955        Cocina a gas Blogna                                    2              2591.44        5182.88        
+32   27912250       LWG-915        Cocina a gas Murano                                    1              1101.47        1101.47        
+33   20864087       SPR-580        Dispensador de Agua                                    1              404.35         404.35         
+34   94080926       OTW-288        Cavba de Vinos GE cap. 34 botellas                     5              1119.18        5595.90        
+35   80048864       BWD-036        Cocina Empotrable Klimatica                            3              1086.34        SIN STOCK      
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 264287.32
+Total perdido por falta de stock: 6900.39
+=======================================================================================================================================
+FECHA: 20230826
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    27912250       ICX-503        Cocina a gas Roma                                      1              1221.02        1221.02        
+1    86828079       MQR-442        Reloj Digital RMM-29                                   3              271.66         814.98         
+2    49087435       BCK-361        Tablets 10.1                                           3              1872.53        SIN STOCK      
+3    78922174       AFL-718        Vinera                                                 5              1664.97        8324.85        
+4    11602775       JJN-837        Lavadora Tecnologia Wobbie                             1              1979.92        1979.92        
+5    79475585       BWD-036        Cocina Empotrable Klimatica                            5              1086.34        SIN STOCK      
+6    17972674       UWA-476        Autoradio MEX BT3150U                                  4              1191.39        4765.56        
+7    71378466       BIT-434        Campana Extractora modelo Glass                        4              375.09         1500.36        
+8    83505958       MQR-442        Reloj Digital RMM-29                                   1              271.66         271.66         
+9    77484838       AFL-718        Vinera                                                 1              1664.97        1664.97        
+10   95161027       VVS-017        Tablets MW 0731                                        5              2599.72        12998.60       
+11   54761731       DEV-433        Parlantes portatiles SHOQBOX                           3              2698.74        8096.22        
+12   45828535       QJO-060        Televisor LED FULL HD                                  6              2704.14        16224.84       
+13   83236386       OPT-996        Mini componente GPX88                                  2              1367.48        2734.96        
+14   42157219       III-576        Campana Extractora Venus Plus                          6              1077.65        6465.90        
+15   38637282       FLJ-040        Parlantes portatiles SOUNDSHOOTER                      6              3703.37        22220.22       
+16   59407188       RDT-761        Horno Microondas con dorador                           5              904.95         4524.75        
+17   78757121       GXF-122        Televisor Ultra HDTV                                   1              1110.16        1110.16        
+18   90365520       EUZ-452        Impresora Mutifuncional Led Color                      6              3623.88        21743.28       
+19   13245501       HFC-845        Televisor Serie LED R555A                              6              3736.75        22420.50       
+20   78757121       ARS-231        Audifonos Stereos                                      4              327.62         1310.48        
+21   24995742       BWD-036        Cocina Empotrable Klimatica                            1              1086.34        1086.34        
+22   86402303       OQI-373        Cocina Empotrable Premio Plus                          3              906.16         2718.48        
+23   57690875       XLF-273        Centro de Lavado a Gas                                 4              2371.95        SIN STOCK      
+24   94080926       CIM-038        Cocina Empotrable Petra                                2              2544.64        5089.28        
+25   54761731       ZVA-180        Refrigeradora 322 litros                               4              2903.13        11612.52       
+26   42157219       KWP-672        Televisor UHD TV                                       6              1625.30        9751.80        
+27   54761731       VZV-827        Refrigeradora Top Mount                                1              1784.27        1784.27        
+28   29337157       WZD-331        Refrigeradora ECOTT 465 IX                             4              1213.79        SIN STOCK      
+29   73535476       KJX-387        Ventilador de techo                                    4              613.19         SIN STOCK      
+30   77191257       TZY-323        Terma a gas                                            3              2341.01        7023.03        
+31   27912250       FLJ-040        Parlantes portatiles SOUNDSHOOTER                      3              3703.37        11110.11       
+32   32904023       KQQ-136        Impresora Laser EPSON                                  1              1139.56        1139.56        
+33   99842319       ZAF-449        Tablet Cardle                                          1              816.43         816.43         
+34   57263719       ZWF-661        Impresora Led                                          5              2731.61        SIN STOCK      
+35   81114108       VCL-867        Cocina a gas Rubi 2                                    1              699.07         699.07         
+36   31611146       XSD-310        Refrigeradora No frost                                 1              2259.93        2259.93        
+37   40348917       VRR-793        Rack Giratorio 32/60                                   3              241.71         725.13         
+38   79901434       TXM-139        Televisor LED FULL HD 3D                               2              1092.95        SIN STOCK      
+39   26976877       XZG-521        Secadora Electrica FAQE7001LW                          3              704.27         2112.81        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 198321.99
+Total perdido por falta de stock: 43688.96
+=======================================================================================================================================
+FECHA: 20230829
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    98140264       DFF-034        Grabadora de voz digital portátil con USB integrado    2              259.25         518.50         
+1    25171011       VCL-867        Cocina a gas Rubi 2                                    3              699.07         SIN STOCK      
+2    76388967       EBI-299        Cocina a gas Fridare                                   5              2287.57        11437.85       
+3    16552775       CNN-411        Congeladora Side by Side                               5              2296.29        11481.45       
+4    46462527       KWP-672        Televisor UHD TV                                       3              1625.30        4875.90        
+5    79464412       NSM-283        Cocina a gas FFG3053SL                                 2              936.81         1873.62        
+6    52097922       OWN-701        Olla arrocera                                          2              220.82         441.64         
+7    71463316       KCO-488        Ventilador de pared                                    5              679.60         3398.00        
+8    77642521       DFJ-952        Cocina a gas Prestige 60 INOX                          5              3342.77        16713.85       
+9    53166028       QHC-492        Terma Solucion                                         1              1907.23        1907.23        
+10   45877001       PJG-338        Impresora Mutifuncional Inalambricar                   2              1067.80        2135.60        
+11   77484838       UDR-957        Refrigeradora ECOTT 423 IXL                            3              861.70         2585.10        
+12   71463316       EBI-299        Cocina a gas Fridare                                   6              2287.57        13725.42       
+13   88956889       HFM-021        Horno Electrico                                        6              726.91         4361.46        
+14   29847168       BCK-361        Tablets 10.1                                           1              1872.53        1872.53        
+15   55552996       SJD-818        Refrigeradora  CoolStyle 281A Steel                    1              3387.75        3387.75        
+16   87800799       WZD-331        Refrigeradora ECOTT 465 IX                             2              1213.79        SIN STOCK      
+17   43053402       VRR-793        Rack Giratorio 32/60                                   2              241.71         483.42         
+18   16151792       AQS-362        Teclado Inalambrico USB                                1              233.05         233.05         
+19   81114108       RBE-789        Televisor SMART TV                                     2              3303.07        6606.14        
+20   62324793       FQG-293        Rapiducha Premiun                                      1              2784.31        2784.31        
+21   87800799       BTO-226        Friobar                                                3              863.19         2589.57        
+22   44229880       SNY-500        Cocina a gas Praga Quarzo                              3              3297.09        9891.27        
+23   20864087       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    5              1979.07        9895.35        
+24   31193794       BXY-119        Cocina Empotrable Klimatica                            5              2716.11        13580.55       
+25   86241107       FEG-454        Sillon masajeador                                      2              1695.70        3391.40        
+26   95161027       FQG-293        Rapiducha Premiun                                      4              2784.31        11137.24       
+27   69639726       DON-719        Secadora de Cabello SG-3035                            1              360.69         360.69         
+28   53166028       ONB-903        Reproductor BLU-RAY 3D                                 3              653.67         1961.01        
+29   45828535       YMU-875        Cocina a gas Plermo Quarzo                             5              3232.10        SIN STOCK      
+30   71378466       XSD-310        Refrigeradora No frost                                 3              2259.93        6779.79        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 150409.69
+Total perdido por falta de stock: 20685.29
+=======================================================================================================================================
+FECHA: 20230825
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    57263719       TZY-323        Terma a gas                                            6              2341.01        14046.06       
+1    87800799       KWP-672        Televisor UHD TV                                       2              1625.30        3250.60        
+2    35565959       CIM-038        Cocina Empotrable Petra                                4              2544.64        10178.56       
+3    77642521       QUU-384        Lavavajilla Blue Touch                                 5              2545.54        SIN STOCK      
+4    79901434       AHB-459        Reproductor DVD Portatil TV 7                          3              685.50         2056.50        
+5    67418025       QUU-384        Lavavajilla Blue Touch                                 1              2545.54        2545.54        
+6    79140840       TYF-885        Videojuego TW 4                                        2              794.14         1588.28        
+7    11602775       XLF-273        Centro de Lavado a Gas                                 4              2371.95        SIN STOCK      
+8    62566305       DIQ-718        Horno Microondas de Conveccion Cello                   4              390.80         SIN STOCK      
+9    40348917       SNY-500        Cocina a gas Praga Quarzo                              4              3297.09        13188.36       
+10   83236386       MTF-868        Impresora Monocromatica WorkForce M205                 2              971.59         1943.18        
+11   52097922       GBD-525        Refrigeradora Puertas Mágicas                          5              2700.95        13504.75       
+12   16151792       CNQ-172        Congeladora Horizontal 364 Lts.                        1              3689.62        3689.62        
+13   32821689       MMA-577        Congeladora Horizontal 252 Lts.                        5              1780.30        8901.50        
+14   26976877       JXD-139        Terma Evolucion Soltu                                  2              586.02         1172.04        
+15   73535476       LDR-510        Mini componente ESX9                                   2              2701.87        5403.74        
+16   96258632       EBI-299        Cocina a gas Fridare                                   5              2287.57        SIN STOCK      
+17   62324793       YJD-279        Cocina a gas Florencia                                 5              1028.43        5142.15        
+18   13245501       ZWF-661        Impresora Led                                          1              2731.61        SIN STOCK      
+19   87800799       ICX-503        Cocina a gas Roma                                      2              1221.02        2442.04        
+20   73786035       AQS-362        Teclado Inalambrico USB                                1              233.05         233.05         
+21   58187172       KBY-991        Home Theater E4100                                     6              1101.08        6606.48        
+22   71378466       OQI-373        Cocina Empotrable Premio Plus                          1              906.16         906.16         
+23   88995291       HLR-109        Parlantes inalambricos                                 2              439.47         878.94         
+24   95751208       BWD-036        Cocina Empotrable Klimatica                            3              1086.34        SIN STOCK      
+25   87800799       EUZ-452        Impresora Mutifuncional Led Color                      2              3623.88        7247.76        
+26   57263719       YOT-530        Deshumedecedor DM-190H                                 5              941.73         4708.65        
+27   93845419       AWB-345        Deshumedecedor DM-189H                                 5              800.37         SIN STOCK      
+28   19829266       UXG-019        Terma de acumulacion                                   2              934.91         1869.82        
+29   93160528       DUG-251        Cocina a gas FFG3047SL                                 2              1597.96        3195.92        
+30   50375303       SJQ-827        Reproductor Multimedia Touch Screen                    2              1719.56        3439.12        
+31   42798099       RDT-761        Horno Microondas con dorador                           6              904.95         5429.70        
+32   49087435       AFL-718        Vinera                                                 1              1664.97        1664.97        
+33   45783712       SNY-500        Cocina a gas Praga Quarzo                              5              3297.09        SIN STOCK      
+34   77484838       YGV-332        Impresora Led Color                                    3              2517.66        7552.98        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 132786.47
+Total perdido por falta de stock: 61694.48
+=======================================================================================================================================
+FECHA: 20230831
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    35584593       SSD-176        Refrigeradora Linea Gallery                            4              567.71         2270.84        
+1    73185299       OTH-462        Lavadora Semi-Automatica                               3              531.04         1593.12        
+2    45783712       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    2              1979.07        3958.14        
+3    62324793       LDR-510        Mini componente ESX9                                   1              2701.87        2701.87        
+4    37110873       QUU-384        Lavavajilla Blue Touch                                 4              2545.54        SIN STOCK      
+5    71463316       AWT-354        Galaxy Gear                                            4              3409.22        13636.88       
+6    46462527       LWG-915        Cocina a gas Murano                                    6              1101.47        6608.82        
+7    87800799       VRR-793        Rack Giratorio 32/60                                   2              241.71         483.42         
+8    25171011       AWB-345        Deshumedecedor DM-189H                                 6              800.37         SIN STOCK      
+9    22777006       FCN-617        Televisor Plasma 60                                    1              4121.05        SIN STOCK      
+10   90237332       QFP-254        Calentador electrico instantaneo                       3              180.65         541.95         
+11   48467976       JDQ-505        Lavadora Modelo Aquamatic                              5              1572.31        7861.55        
+12   45828535       XSD-310        Refrigeradora No frost                                 4              2259.93        SIN STOCK      
+13   90365520       KBY-991        Home Theater E4100                                     6              1101.08        6606.48        
+14   54716824       UDR-957        Refrigeradora ECOTT 423 IXL                            1              861.70         861.70         
+15   37110873       VDD-853        Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2               4              1095.67        4382.68        
+16   54716824       ZEX-027        Tablet Xperia Z                                        6              3843.75        23062.50       
+17   81114108       DFF-034        Grabadora de voz digital portátil con USB integrado    5              259.25         1296.25        
+18   64394265       OFS-384        Parlantes Bluetooth                                    5              805.22         4026.10        
+19   42798099       CNN-411        Congeladora Side by Side                               6              2296.29        13777.74       
+20   13245501       QIL-029        Mini componente Shake-5                                2              2990.55        5981.10        
+21   86402303       HFM-021        Horno Electrico                                        6              726.91         4361.46        
+22   89148118       EBI-299        Cocina a gas Fridare                                   6              2287.57        SIN STOCK      
+23   87813843       OQI-373        Cocina Empotrable Premio Plus                          1              906.16         906.16         
+24   93845419       QIL-029        Mini componente Shake-5                                6              2990.55        17943.30       
+25   67418025       FEG-454        Sillon masajeador                                      2              1695.70        3391.40        
+26   69975105       TMJ-043        Lavadora EcoBubble                                     6              2400.79        14404.74       
+27   97403853       YJD-279        Cocina a gas Florencia                                 3              1028.43        3085.29        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 143743.49
+Total perdido por falta de stock: 41870.57
+=======================================================================================================================================
+FECHA: 20230905
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    60574154       BWD-036        Cocina Empotrable Klimatica                            2              1086.34        SIN STOCK      
+1    13245501       XOA-735        Congeladora Vertical 392 Lts.                          5              2708.07        13540.35       
+2    46462527       KCO-488        Ventilador de pared                                    4              679.60         2718.40        
+3    93845419       CIM-038        Cocina Empotrable Petra                                5              2544.64        SIN STOCK      
+4    63437380       KQA-580        Cocina Empotrable Glassy Plus                          2              2907.92        5815.84        
+5    54716824       SPR-580        Dispensador de Agua                                    3              404.35         1213.05        
+6    55552996       UXG-019        Terma de acumulacion                                   6              934.91         SIN STOCK      
+7    42798099       AQS-362        Teclado Inalambrico USB                                1              233.05         SIN STOCK      
+8    80048864       RDT-761        Horno Microondas con dorador                           5              904.95         4524.75        
+9    43877279       TYF-885        Videojuego TW 4                                        5              794.14         SIN STOCK      
+10   98589725       VRR-793        Rack Giratorio 32/60                                   1              241.71         241.71         
+11   22280452       XSD-310        Refrigeradora No frost                                 2              2259.93        SIN STOCK      
+12   16151792       TZY-323        Terma a gas                                            3              2341.01        7023.03        
+13   89298238       JXD-139        Terma Evolucion Soltu                                  3              586.02         1758.06        
+14   12663268       BMJ-772        Refrigeradora Side by Side                             1              936.32         936.32         
+15   64394265       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    1              1979.07        SIN STOCK      
+16   76388967       DOV-560        Impresora Laser Mutifuncion Monocromatica              2              1203.14        2406.28        
+17   69324480       VJI-529        Horno Empotrable Electrico                             1              1102.67        1102.67        
+18   73914283       BRD-969        Centro de Lavado Electrico                             3              2579.72        7739.16        
+19   62566305       CNQ-172        Congeladora Horizontal 364 Lts.                        3              3689.62        11068.86       
+20   13245501       KJX-387        Ventilador de techo                                    5              613.19         SIN STOCK      
+21   89298238       ICX-503        Cocina a gas Roma                                      3              1221.02        3663.06        
+22   67418025       YYU-726        Reproductor DVD Portatil                               6              767.82         4606.92        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 68358.46
+Total perdido por falta de stock: 34273.97
+=======================================================================================================================================
+FECHA: 20230823
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    31193794       JDC-028        Puntero Laser                                          1              30.48          30.48          
+1    89148118       TKM-141        Cocina a gas Marsella                                  6              402.24         2413.44        
+2    29337157       QHC-492        Terma Solucion                                         6              1907.23        11443.38       
+3    90237332       PFD-286        Refrigeradora cap. 415 litros                          4              2776.02        SIN STOCK      
+4    89298238       PFD-286        Refrigeradora cap. 415 litros                          2              2776.02        SIN STOCK      
+5    55552996       AQS-362        Teclado Inalambrico USB                                1              233.05         SIN STOCK      
+6    81114108       BCN-855        Cocina a gas Bahia Can                                 4              4015.92        16063.68       
+7    22280452       VRR-793        Rack Giratorio 32/60                                   5              241.71         1208.55        
+8    69324480       VXS-438        Mouse Blue Tooth                                       3              60.11          180.33         
+9    79464412       MTF-868        Impresora Monocromatica WorkForce M205                 6              971.59         5829.54        
+10   93160528       BRD-969        Centro de Lavado Electrico                             5              2579.72        12898.60       
+11   43488351       QTK-083        Congeladora Conservador Vertical 476 Lts.              6              2682.73        16096.38       
+12   93160528       QTK-083        Congeladora Conservador Vertical 476 Lts.              3              2682.73        8048.19        
+13   76388967       CNQ-172        Congeladora Horizontal 364 Lts.                        6              3689.62        22137.72       
+14   89298238       YOT-530        Deshumedecedor DM-190H                                 1              941.73         941.73         
+15   89429489       QUU-384        Lavavajilla Blue Touch                                 1              2545.54        SIN STOCK      
+16   50365593       ZVA-180        Refrigeradora 322 litros                               6              2903.13        SIN STOCK      
+17   83236386       OFS-384        Parlantes Bluetooth                                    1              805.22         805.22         
+18   81114108       OFS-384        Parlantes Bluetooth                                    3              805.22         SIN STOCK      
+19   23928045       LWG-915        Cocina a gas Murano                                    2              1101.47        2202.94        
+20   73185299       QFP-254        Calentador electrico instantaneo                       5              180.65         903.25         
+21   78922174       XBD-314        Cocina a gas Fassina                                   2              1444.90        2889.80        
+22   87813843       LDR-510        Mini componente ESX9                                   6              2701.87        16211.22       
+23   78078115       PJG-338        Impresora Mutifuncional Inalambricar                   2              1067.80        2135.60        
+24   79372768       SAM-013        Cocina a gas FFG3047SL                                 1              2275.18        2275.18        
+25   64394265       OTW-288        Cavba de Vinos GE cap. 34 botellas                     5              1119.18        5595.90        
+26   77642521       YYU-726        Reproductor DVD Portatil                               2              767.82         1535.64        
+27   12663268       QFP-254        Calentador electrico instantaneo                       5              180.65         903.25         
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 132750.02
+Total perdido por falta de stock: 39269.15
+=======================================================================================================================================
+FECHA: 20230902
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    86828079       QIL-029        Mini componente Shake-5                                5              2990.55        SIN STOCK      
+1    79901434       OBI-353        Terma Milenium                                         6              2960.56        17763.36       
+2    20864087       BXY-119        Cocina Empotrable Klimatica                            4              2716.11        10864.44       
+3    37110873       SSD-176        Refrigeradora Linea Gallery                            1              567.71         567.71         
+4    41036366       SJD-818        Refrigeradora  CoolStyle 281A Steel                    4              3387.75        13551.00       
+5    98140264       BRD-969        Centro de Lavado Electrico                             1              2579.72        2579.72        
+6    84165595       RDT-761        Horno Microondas con dorador                           6              904.95         SIN STOCK      
+7    50365593       JDC-028        Puntero Laser                                          6              30.48          182.88         
+8    15210391       TZY-323        Terma a gas                                            3              2341.01        7023.03        
+9    95161027       III-576        Campana Extractora Venus Plus                          5              1077.65        5388.25        
+10   20864087       JFC-432        DVD DVM-L79                                            1              307.67         307.67         
+11   50375303       AFL-718        Vinera                                                 1              1664.97        SIN STOCK      
+12   42928709       OQI-373        Cocina Empotrable Premio Plus                          5              906.16         SIN STOCK      
+13   43053402       MMA-577        Congeladora Horizontal 252 Lts.                        6              1780.30        10681.80       
+14   78922174       EJW-346        Campana Extractora                                     6              359.70         2158.20        
+15   98140264       CJE-310        Mini componente GPX33                                  3              3643.39        10930.17       
+16   94080926       TXM-139        Televisor LED FULL HD 3D                               5              1092.95        SIN STOCK      
+17   20864087       JDQ-505        Lavadora Modelo Aquamatic                              6              1572.31        9433.86        
+18   66409237       DFF-034        Grabadora de voz digital portátil con USB integrado    4              259.25         1037.00        
+19   66409237       AWT-354        Galaxy Gear                                            6              3409.22        20455.32       
+20   88956889       MYC-756        Cocina a gas Leganza INOX                              4              1506.80        6027.20        
+21   24995742       DON-719        Secadora de Cabello SG-3035                            3              360.69         1082.07        
+22   88956889       UWA-476        Autoradio MEX BT3150U                                  6              1191.39        7148.34        
+23   32904023       QFP-254        Calentador electrico instantaneo                       4              180.65         SIN STOCK      
+24   89298238       YOT-530        Deshumedecedor DM-190H                                 4              941.73         SIN STOCK      
+25   79372768       GLC-370        Video Proyector Power Lite 95                          4              552.24         2208.96        
+26   32821689       MTF-868        Impresora Monocromatica WorkForce M205                 5              971.59         SIN STOCK      
+27   59407188       LYZ-614        Impresore Mutifuncional Expression XP-211              3              3510.84        10532.52       
+28   55552996       QTK-083        Congeladora Conservador Vertical 476 Lts.              1              2682.73        2682.73        
+29   50365593       TMN-884        Secadora de mano                                       6              310.65         SIN STOCK      
+30   15210391       VXS-438        Mouse Blue Tooth                                       4              60.11          240.44         
+31   33397650       VJI-529        Horno Empotrable Electrico                             6              1102.67        6616.02        
+32   13245501       BXY-119        Cocina Empotrable Klimatica                            5              2716.11        SIN STOCK      
+33   69324480       DIQ-718        Horno Microondas de Conveccion Cello                   1              390.80         390.80         
+34   78078115       DFJ-952        Cocina a gas Prestige 60 INOX                          5              3342.77        16713.85       
+35   29337157       HFM-021        Horno Electrico                                        4              726.91         2907.64        
+36   77191257       KWP-672        Televisor UHD TV                                       2              1625.30        3250.60        
+37   89863424       FVB-607        Cocina a gas Essenza BL                                1              2953.07        2953.07        
+38   79420973       GXF-122        Televisor Ultra HDTV                                   3              1110.16        3330.48        
+39   33713901       UWA-476        Autoradio MEX BT3150U                                  2              1191.39        2382.78        
+40   90237332       TKM-141        Cocina a gas Marsella                                  3              402.24         1206.72        
+41   89429489       BXY-119        Cocina Empotrable Klimatica                            3              2716.11        8148.33        
+42   90365520       VDD-853        Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2               5              1095.67        5478.35        
+43   79372768       EUZ-452        Impresora Mutifuncional Led Color                      5              3623.88        SIN STOCK      
+44   53166028       TXM-139        Televisor LED FULL HD 3D                               3              1092.95        SIN STOCK      
+45   45783712       SSD-176        Refrigeradora Linea Gallery                            6              567.71         3406.26        
+46   57263719       DOV-560        Impresora Laser Mutifuncion Monocromatica              4              1203.14        SIN STOCK      
+47   40348917       DFJ-952        Cocina a gas Prestige 60 INOX                          2              3342.77        6685.54        
+48   79140840       QRC-609        Camara de video EOS                                    5              1806.66        9033.30        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 215350.41
+Total perdido por falta de stock: 83045.70
+=======================================================================================================================================
+FECHA: 20230821
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    57690875       CSZ-863        Video Filmadora                                        5              1713.57        8567.85        
+1    11602775       CIM-038        Cocina Empotrable Petra                                4              2544.64        SIN STOCK      
+2    29337157       ZEX-027        Tablet Xperia Z                                        3              3843.75        11531.25       
+3    49087435       VDD-853        Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2               2              1095.67        2191.34        
+4    62566305       TYF-885        Videojuego TW 4                                        4              794.14         SIN STOCK      
+5    45877001       VVS-017        Tablets MW 0731                                        4              2599.72        10398.88       
+6    83505958       EJW-346        Campana Extractora                                     3              359.70         1079.10        
+7    98140264       QHC-492        Terma Solucion                                         4              1907.23        7628.92        
+8    40348917       WZD-331        Refrigeradora ECOTT 465 IX                             3              1213.79        SIN STOCK      
+9    90365520       KWP-672        Televisor UHD TV                                       6              1625.30        9751.80        
+10   45783712       QFR-958        Cocina a gas Bavaro                                    3              1607.46        4822.38        
+11   49087435       SJQ-827        Reproductor Multimedia Touch Screen                    1              1719.56        1719.56        
+12   89429489       VXS-438        Mouse Blue Tooth                                       1              60.11          60.11          
+13   17913944       IHG-413        Parlant Y pedestal PAM-83                              4              317.70         1270.80        
+14   81114108       VRR-793        Rack Giratorio 32/60                                   4              241.71         966.84         
+15   90237332       PVZ-181        Ventilador circular                                    5              309.77         1548.85        
+16   40348917       FLJ-040        Parlantes portatiles SOUNDSHOOTER                      2              3703.37        7406.74        
+17   37110873       UWA-476        Autoradio MEX BT3150U                                  2              1191.39        2382.78        
+18   55552996       FQG-293        Rapiducha Premiun                                      1              2784.31        2784.31        
+19   85949265       TMJ-043        Lavadora EcoBubble                                     6              2400.79        14404.74       
+20   71463316       QFP-254        Calentador electrico instantaneo                       6              180.65         SIN STOCK      
+21   26233063       ZAF-449        Tablet Cardle                                          2              816.43         1632.86        
+22   90365520       OPJ-039        Secadora de Ropa                                       1              2765.64        2765.64        
+23   69639726       OPT-996        Mini componente GPX88                                  3              1367.48        4102.44        
+24   49087435       PJG-338        Impresora Mutifuncional Inalambricar                   1              1067.80        1067.80        
+25   79140840       TMN-884        Secadora de mano                                       5              310.65         1553.25        
+26   91897732       WLL-607        Cocina Electronica Convencion                          1              1525.04        1525.04        
+27   71984468       JJN-837        Lavadora Tecnologia Wobbie                             5              1979.92        9899.60        
+28   15210391       HFM-021        Horno Electrico                                        1              726.91         726.91         
+29   17972674       UTN-601        Autoradio XAV-601 BT                                   1              562.51         562.51         
+30   49087435       XZR-640        Lavadora-Secadora FWD                                  6              2390.58        14343.48       
+31   25171011       VCL-867        Cocina a gas Rubi 2                                    1              699.07         699.07         
+32   85949265       YUQ-590        Refrigeradora  CoolStyle 395N Steel                    2              1979.07        SIN STOCK      
+33   43043986       TXM-139        Televisor LED FULL HD 3D                               3              1092.95        SIN STOCK      
+34   38913831       JFC-432        DVD DVM-L79                                            3              307.67         923.01         
+35   11602775       TMJ-043        Lavadora EcoBubble                                     6              2400.79        14404.74       
+36   17913944       YJD-279        Cocina a gas Florencia                                 5              1028.43        5142.15        
+37   81114108       DUG-251        Cocina a gas FFG3047SL                                 5              1597.96        SIN STOCK      
+38   50365593       TZY-323        Terma a gas                                            1              2341.01        2341.01        
+39   32904023       SAM-013        Cocina a gas FFG3047SL                                 3              2275.18        SIN STOCK      
+40   40112594       EBI-299        Cocina a gas Fridare                                   3              2287.57        6862.71        
+41   44229880       HLR-109        Parlantes inalambricos                                 5              439.47         2197.35        
+42   58187172       VXS-438        Mouse Blue Tooth                                       2              60.11          120.22         
+43   15561764       RAH-420        Cocina a gas Pro 6550 INOX                             4              157.01         SIN STOCK      
+44   95161027       TZY-323        Terma a gas                                            5              2341.01        SIN STOCK      
+45   77191257       BWD-036        Cocina Empotrable Klimatica                            5              1086.34        SIN STOCK      
+46   32565207       ZWF-661        Impresora Led                                          6              2731.61        SIN STOCK      
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 159386.04
+Total perdido por falta de stock: 74287.17
+=======================================================================================================================================
+FECHA: 20230901
+=======================================================================================================================================
+No.  DNI            CODIGO         NOMBRE                                                 CANTIDAD       PRECIO         TOTAL          
+---------------------------------------------------------------------------------------------------------------------------------------
+0    28390487       GLC-370        Video Proyector Power Lite 95                          2              552.24         1104.48        
+1    84165595       DFJ-952        Cocina a gas Prestige 60 INOX                          1              3342.77        SIN STOCK      
+2    50365593       LWG-915        Cocina a gas Murano                                    3              1101.47        SIN STOCK      
+3    83236386       UJV-290        Cocina a gas Fassina Plus                              5              2423.26        12116.30       
+4    73185299       QHC-492        Terma Solucion                                         3              1907.23        SIN STOCK      
+5    13245501       VXS-438        Mouse Blue Tooth                                       3              60.11          180.33         
+6    42798099       TMN-884        Secadora de mano                                       5              310.65         SIN STOCK      
+7    32904023       DUG-251        Cocina a gas FFG3047SL                                 4              1597.96        SIN STOCK      
+8    96659352       ADX-669        Refrigeradora cap. 220 litros                          4              1239.38        4957.52        
+9    89148118       AFL-718        Vinera                                                 1              1664.97        SIN STOCK      
+10   77191257       QVJ-982        Horno Microondas 0.7 p3                                5              1352.76        6763.80        
+11   91897732       XZR-640        Lavadora-Secadora FWD                                  5              2390.58        SIN STOCK      
+12   93160528       YYU-726        Reproductor DVD Portatil                               1              767.82         767.82         
+13   89298238       UJV-290        Cocina a gas Fassina Plus                              4              2423.26        9693.04        
+14   43488351       DIQ-718        Horno Microondas de Conveccion Cello                   6              390.80         SIN STOCK      
+15   78078115       FQG-293        Rapiducha Premiun                                      4              2784.31        11137.24       
+16   43043986       SSD-176        Refrigeradora Linea Gallery                            5              567.71         SIN STOCK      
+17   40348917       BMJ-772        Refrigeradora Side by Side                             1              936.32         936.32         
+18   78922174       XBD-314        Cocina a gas Fassina                                   3              1444.90        SIN STOCK      
+19   35565959       BZS-261        Cocina a gas Trento                                    1              3087.87        3087.87        
+20   87813843       XSD-310        Refrigeradora No frost                                 3              2259.93        SIN STOCK      
+21   17913944       DEN-125        Rack Fijo 26/32                                        1              562.46         562.46         
+22   79420973       SSE-115        Refrigeradora  CoolStyle 311N Steel                    5              3243.58        16217.90       
+23   16151792       IDO-503        Laptop GamerVictus de 15.6                             6              3935.17        23611.02       
+24   22280452       UCX-285        Galaxy Tab 3                                           3              3290.93        9872.79        
+25   71984468       TZY-323        Terma a gas                                            1              2341.01        2341.01        
+26   19829266       RDT-761        Horno Microondas con dorador                           3              904.95         SIN STOCK      
+27   86241107       UXG-019        Terma de acumulacion                                   2              934.91         1869.82        
+28   84165595       HFM-021        Horno Electrico                                        6              726.91         SIN STOCK      
+29   31611146       FVQ-662        Cocina a gas Pro 6300 INOX                             4              1060.68        SIN STOCK      
+30   77191257       ZEX-027        Tablet Xperia Z                                        6              3843.75        23062.50       
+31   41036366       QVJ-982        Horno Microondas 0.7 p3                                4              1352.76        SIN STOCK      
+32   79140840       JXD-139        Terma Evolucion Soltu                                  4              586.02         2344.08        
+33   49087435       III-576        Campana Extractora Venus Plus                          2              1077.65        2155.30        
+---------------------------------------------------------------------------------------------------------------------------------------
+Total ingresado: 132781.60
+Total perdido por falta de stock: 66959.74
+=======================================================================================================================================
+RESUMEN DE INGRESOS
+TOTAL DE INGRESOS EN EL PERIODO:                            0.00
+TOTAL PERDIDO POR STOCK EN EL PERIODO:                      0.00
+=======================================================================================================================================
