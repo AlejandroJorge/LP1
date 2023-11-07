@@ -20,7 +20,7 @@ int main(int argc, char **argv)
   pesomaximo = 400;
 
   cargacamiones(flota, numcamiones, pesomaximo, leeregistro, calcularegistro, "Pedidos3.csv");
-  qsort(flota, numcamiones, sizeof(void *), cmpregistro);
+  qsort(flota, numcamiones, sizeof(void *x), cmpregistro);
   muestracamiones(flota, numcamiones, imprimeregistro, "reporteregistro.txt");
 
   return 0;
